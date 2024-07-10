@@ -1,2 +1,3 @@
 # Graph-Analytics-and-Network-Features
-Final project for the Learning From Networks course, UniPD - DEI, 2022/23.
+
+This repository contains the delivery of the final project for the Learning From Networks course at UniPD - DEI 2022/23.
