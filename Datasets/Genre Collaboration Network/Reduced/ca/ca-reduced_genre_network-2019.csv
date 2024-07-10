@@ -1,0 +1,681 @@
+source	target	weight	avg_streams
+hip hop	rap	610	2894152.626213592
+rap	trap	488	3383780.6
+pop rap	rap	455	3007729.586734694
+hip hop	trap	384	2858139.4563758387
+rap	rap	372	3191293.725961538
+hip hop	pop rap	363	3001361.380645161
+pop rap	trap	334	3339434.614864865
+hip hop	hip hop	276	2687433.84375
+pop	pop	239	3800157.180232558
+pop	rap	209	2768838.16
+dance pop	pop	196	3481983.827586207
+hip hop	pop	193	2403496.714285714
+pop	pop rap	185	3115838.941666667
+trap	trap	165	2931802.795698925
+pop rap	pop rap	164	3424575.5596330273
+pop	trap	146	2989446.557894737
+pop	tropical house	98	3135579.365079365
+electropop	pop	95	4170523.9423076925
+electro	pop	86	2695977.916666666
+dance pop	rap	84	2201943.5283018867
+pop	r&b	83	3741978.9016393437
+dance pop	pop rap	76	3018075.4814814813
+dance pop	hip hop	70	1796506.4347826086
+dance pop	trap	65	1979198.0
+r&b	rap	64	1830951.809523809
+hip hop	r&b	63	1603584.5897435897
+pop rap	r&b	53	2328056.2
+dance pop	tropical house	49	2579259.6486486485
+hip hop	soul	47	1186032.75
+rap	soul	46	2312391.2941176468
+r&b	trap	44	1286547.3548387096
+dance pop	electro	43	2719214.7741935486
+latin	pop	43	3099187.7826086963
+dance pop	electropop	40	3811312.90625
+pop	reggaeton	40	3194895.9545454546
+electro house	pop	40	3568073.787878788
+dance pop	dance pop	39	2616805.942857143
+latin	reggaeton	37	2762505.777777778
+electropop	tropical house	35	3240660.4285714286
+rap	urban contemporary	35	898956.6315789473
+house	pop	34	3140319.0909090913
+electro	tropical house	32	3009320.7142857136
+hip hop	urban contemporary	32	1115880.7894736843
+pop rap	urban contemporary	29	1256656.5
+reggaeton	trap	28	3581701.7142857136
+other	pop	26	4976431.166666667
+rap	reggaeton	26	4248140.8125
+dance pop	r&b	25	2897298.083333333
+trap	urban contemporary	25	1132560.2666666666
+latin	trap	24	3180149.916666666
+pop rap	reggaeton	24	4543650.0
+hip hop	reggaeton	24	3620959.538461538
+pop	urban contemporary	24	1940383.5
+dance	pop	23	3185571.4375
+latin	rap	22	3949369.0
+electro	electropop	22	3420684.2
+electro	rap	22	2414566.083333333
+hip hop	latin	22	3126822.272727273
+electropop	electropop	21	5212859.4
+latin	pop rap	21	4067528.066666667
+dance pop	latin	21	2578715.533333333
+dance pop	reggaeton	20	2691937.5
+pop	soul	20	2283282.466666667
+latin	latin	19	3082144.375
+electro	electro	19	2172470.875
+reggaeton	reggaeton	18	3393291.1428571427
+pop	rock	18	5216159.363636363
+dance pop	electro house	18	1743339.5
+electro	latin	17	2520953.25
+dance pop	house	17	2722414.5
+soul	trap	17	1698049.4285714286
+country	pop	17	6223400.285714285
+pop rap	soul	17	1758985.25
+electro	hip hop	17	1413198.0
+dubstep	pop	16	5286197.333333333
+electro	pop rap	16	4033003.2857142864
+electro	reggaeton	16	2739145.4285714286
+tropical house	tropical house	15	2875392.1538461535
+electro	house	15	1840642.333333333
+electro	trap	14	3806229.6
+moombahton	pop	14	3319711.333333333
+rap	rock	14	2241426.625
+electro house	rap	13	1633650.666666667
+dancehall	pop	13	733848.125
+pop	tropical	13	2475189.125
+indie pop	pop	13	5315092.909090909
+r&b	tropical house	12	4442540.727272728
+hip hop	reggae	12	3621400.75
+r&b	soul	12	2109151.5
+dancehall	hip hop	12	488390.6
+r&b	r&b	12	2257129.5
+latin	tropical	12	1980686.0
+electro	electro house	12	1899727.5714285716
+dance	electro	11	1886546.1428571432
+house	tropical house	11	3438352.8571428573
+other	tropical house	10	3539475.6
+electropop	other	10	3515723.5
+ninja	pop	10	3942612.6
+electropop	r&b	10	6759667.0
+pop rap	rock	10	2396117.25
+dance	dance pop	10	1988044.333333333
+dancehall	rap	10	464541.75
+reggaeton	tropical	10	2196331.4
+electro house	tropical house	10	1879776.125
+electro	tropical	10	410432.0
+electro	r&b	9	2647026.375
+electropop	rap	9	4290576.166666667
+dance	tropical house	9	1943089.625
+electro house	electropop	9	4995973.375
+pop rap	tropical house	9	4826346.625
+indie	pop	9	1142648.0
+k-pop	pop	9	1700044.833333333
+dancehall	reggae	9	425065.0
+pop	pop rock	9	5488845.0
+dance pop	dubstep	8	2325050.0
+dubstep	electropop	8	6219718.6
+country	hip hop	8	9112389.6
+dubstep	rap	8	1791832.333333333
+electro house	r&b	8	2360010.875
+r&b	urban contemporary	8	1267615.625
+pop	reggae	8	1172043.333333333
+rap	reggae	8	425065.0
+country	dance pop	8	5096380.428571428
+hip hop	tropical house	8	1595660.6
+hip hop	rock	8	579307.5
+house	r&b	7	6134376.285714285
+pop	techno	7	2952056.571428572
+other	rap	7	3302378.75
+emo	pop	7	4830871.2
+dance pop	rock	7	2299377.5
+indie pop	pop rap	7	5451123.142857143
+electropop	pop rap	7	6681569.666666668
+indie pop	rap	7	1313390.75
+electropop	trap	7	4939539.2
+indie	rap	7	592555.3333333335
+electro house	pop rap	7	3154512.333333333
+deep pop r&b	hip hop	7	316761.66666666674
+electropop	indie pop	7	6526328.333333332
+electro house	hip hop	7	1282706.2
+rap	tropical house	7	3675023.4
+dance pop	urban contemporary	7	910234.3333333335
+dubstep	tropical house	6	2947305.4
+grime	pop	6	798374.0
+country	pop rap	6	14211989.0
+indie pop rap	pop rap	6	1565266.2
+dance	house	6	2112984.5
+other	r&b	6	1364720.666666667
+dancehall	r&b	6	909577.25
+electropop	hip hop	6	3597949.6
+hip hop	indie	6	504767.2
+indietronica	pop	6	4381617.4
+dancehall	pop rap	6	464541.75
+dance pop	soul	6	2843989.666666666
+indie pop	tropical house	6	1736543.5
+electro	urban contemporary	6	5263137.666666667
+house	rap	6	2580412.0
+indie pop rap	rap	5	606816.0
+indie pop rap	trap	5	776349.0
+dance pop	moombahton	5	3942612.6
+dance pop	ninja	5	3942612.6
+hip hop	indie pop	5	1496874.6
+country	electropop	5	8771808.6
+dance pop	other	5	6343811.6
+dance pop	tropical	5	2856622.5
+indie	pop rap	5	569225.75
+indie rock	pop	5	3146821.0
+dubstep	pop rap	5	1288186.25
+deep pop r&b	rap	5	316761.66666666674
+pop	video game music	5	1466625.5
+pop rap	reggae	5	425065.0
+hip hop	tropical	5	1493113.666666667
+electropop	house	5	4561956.6
+electro house	trap	5	2082789.5
+rap	tropical	5	1510246.333333333
+electro	indie pop	5	1582894.5
+trap	tropical house	5	5052755.75
+latin	tropical house	5	702020.0
+hip hop	house	5	2580412.0
+dance	hip hop	5	573424.0
+rock	trap	5	684267.6666666665
+country	country rap	4	14211989.0
+dance	electropop	4	1315988.666666667
+soul	soul	4	1961867.0
+other	pop rap	4	1650014.0
+grime	hip hop	4	1595016.5
+metal	rap	4	6341206.5
+dance	pop house	4	5362569.5
+rock	tropical house	4	3817001.0
+electro	rock	4	3817001.0
+house	rock	4	3817001.0
+house	pop rap	4	4630990.0
+indie pop	trap	4	1804986.5
+soul	urban contemporary	4	2096310.5
+indie rock	pop rap	4	1010713.0
+electro	other	4	5493369.5
+country	tropical house	4	8655850.0
+house	other	4	5493369.5
+indie r&b	rap	4	253814.66666666663
+dance pop	reggae	4	1437738.5
+hip hop	k-pop	4	413672.5
+reggae	reggae	4	425065.0
+dancehall	dancehall	4	425065.0
+trap	tropical	4	2636452.0
+latin	r&b	4	709701.0
+r&b	reggaeton	4	709701.0
+deep pop r&b	pop rap	4	255137.5
+dance pop	k-pop	4	2113058.25
+soul	tropical house	4	3345750.5
+electro	soul	4	3717397.333333334
+electro house	soul	4	3717397.333333334
+dance pop	indie	4	636369.5
+escape room	pop	4	2180477.25
+electro house	house	4	2551355.0
+afropop	pop	4	652949.6666666665
+afropop	pop rap	4	652949.6666666665
+afropop	rap	4	652949.6666666665
+indie pop	r&b	4	7363903.0
+tropical house	urban contemporary	4	5263137.666666667
+adult standards	lounge	4	1397834.333333333
+adult standards	pop	4	1717340.0
+county rock	pop	4	7696588.333333332
+county rock	dance pop	4	7696588.333333332
+latin	urban contemporary	4	353288.5
+reggaeton	urban contemporary	4	353288.5
+house	latin	4	410432.0
+house	tropical	4	410432.0
+house	reggaeton	4	410432.0
+tropical	tropical house	4	410432.0
+reggaeton	tropical house	4	410432.0
+indie r&b	pop	4	1487954.333333333
+dance pop	dancehall	4	514178.5
+dancehall	trap	4	514178.5
+reggae	rock	4	209477.0
+dancehall	rock	4	209477.0
+indie rock	rap rock	3	1666870.333333333
+rap rock	rock	3	1666870.333333333
+r&b	techno	3	2698083.0
+dance	r&b	3	9410250.666666666
+pop	pop punk	3	4723858.333333333
+indie rock	rap	3	1065399.0
+country	electro	3	7591867.0
+moombahton	other	3	7256894.333333332
+ninja	other	3	7256894.333333332
+hip hop	indie r&b	3	253814.66666666663
+electro	europop	3	2395840.333333333
+europop	tropical house	3	2395840.333333333
+europop	pop	3	3287475.0
+electro house	indie pop	3	6682156.333333332
+electro house	other	3	13955313.333333336
+electro house	rock	3	9389994.0
+deep pop r&b	pop	3	1187999.666666667
+country	electro house	3	12222588.0
+k-pop	pop rap	3	296270.0
+deep pop r&b	trap	3	255137.5
+dance pop	indie rock	3	4296904.0
+house	soul	3	5385364.0
+pop rap	tropical	3	5089261.0
+pop rock	rap	3	4667297.666666667
+pop rap	pop rock	3	4667297.666666667
+indietronica	tropical house	3	1582185.0
+electro	indietronica	3	1257872.5
+moombahton	tropical house	3	7758928.5
+house	trap	3	8887504.0
+indie	trap	3	873532.5
+adult standards	other	3	985129.3333333335
+lounge	other	3	985129.3333333335
+moombahton	r&b	3	1349223.0
+dance pop	techno	3	854700.3333333335
+rock	rock	3	1565761.333333333
+drill	rap	3	484315.33333333326
+drill	pop rap	3	243498.0
+drill	hip hop	3	243498.0
+afropop	hip hop	3	569984.5
+electropop	soul	3	3490601.0
+adult standards	adult standards	3	1397834.333333333
+adult standards	easy listening	3	1397834.333333333
+dubstep	electro	3	3524136.5
+electro	trance	3	3524136.5
+electro house	latin	3	1221911.0
+dance	latin	3	741021.0
+electro house	tropical	3	1221911.0
+electro house	reggaeton	3	1221911.0
+dance	reggaeton	3	741021.0
+escape room	rap	3	1661274.666666667
+escape room	hip hop	3	1661274.666666667
+indie	r&b	3	1872120.0
+pop rock	r&b	3	1872120.0
+urban contemporary	urban contemporary	3	436932.33333333326
+indie	urban contemporary	3	507326.0
+azonto	pop	3	504018.5
+funk	pop	3	899623.5
+country pop	pop	3	10811298.5
+country pop	dance pop	3	10811298.5
+r&b	reggae	3	209477.0
+indie r&b	reggae	3	209477.0
+dancehall	indie r&b	3	209477.0
+reggae	urban contemporary	3	209477.0
+reggae	trap	3	209477.0
+dancehall	urban contemporary	3	209477.0
+latin	reggae	2	6817736.5
+reggae	tropical	2	6817736.5
+reggae	reggaeton	2	6817736.5
+dance	moombahton	2	846863.5
+dance	ninja	2	846863.5
+dancehall	grime	2	701333.0
+electropop	techno	2	5211723.0
+dance pop	emo	2	4991390.5
+pop punk	pop rap	2	6866419.0
+emo	pop rap	2	6866419.0
+pop punk	tropical house	2	6866419.0
+electro	pop punk	2	6866419.0
+house	pop punk	2	6866419.0
+emo	tropical house	2	6866419.0
+electro	emo	2	6866419.0
+emo	house	2	6866419.0
+rap	rap rock	2	1465885.0
+pop rap	rap rock	2	1465885.0
+country	house	2	6384777.5
+indie r&b	pop rap	2	253367.5
+indie r&b	trap	2	253367.5
+indietronica	pop rap	2	1264034.0
+indietronica	trap	2	1264034.0
+hip hop	indietronica	2	1264034.0
+indietronica	rap	2	297258.0
+new wave	rock	2	1346731.5
+hip hop	indie pop rap	2	743402.0
+europop	house	2	3287475.0
+dance pop	europop	2	3287475.0
+dance	electro house	2	4117427.0
+dubstep	other	2	20831572.5
+electro house	indietronica	2	8230812.5
+country rap	rap	2	2545816.0
+country rap	pop rap	2	2545816.0
+electro house	indie rock	2	3685811.0
+dubstep	rock	2	13430064.5
+dubstep	r&b	2	2658783.5
+hip hop	video game music	2	440010.0
+country rap	k-pop	2	387335.0
+tropical	tropical	2	308743.5
+grime	pop rap	2	2488700.0
+grime	rap	2	2488700.0
+grime	trap	2	2488700.0
+dubstep	trap	2	3046281.5
+electropop	latin	2	6316668.0
+electropop	reggaeton	2	6316668.0
+electropop	indietronica	2	1521382.0
+house	indie pop	2	2198399.0
+dance pop	indie pop	2	521471.5
+electropop	moombahton	2	7758928.5
+ninja	tropical house	2	7758928.5
+moombahton	trap	2	6614910.5
+other	trap	2	7100522.0
+pagode baiano	pop	2	993608.0
+dance pop	pagode baiano	2	993608.0
+brazilian funk	pop	2	993608.0
+brazilian funk	dance pop	2	993608.0
+electro	pop rock	2	1905666.0
+electro house	pop rock	2	13661663.5
+pop rock	tropical house	2	1905666.0
+house	pop rock	2	1905666.0
+dance pop	pop rock	2	765413.0
+electropop	k-pop	2	3587326.5
+electro	video game music	2	2493241.0
+tropical house	video game music	2	2493241.0
+moombahton	video game music	2	2493241.0
+electro	moombahton	2	2493241.0
+dance pop	deep pop r&b	2	1561994.5
+classic rock	rock	2	2243903.5
+k-pop	tropical house	2	258013.0
+afropop	r&b	2	884846.0
+afropop	dance pop	2	884846.0
+blues	pop rap	2	950812.0
+afrobeat	pop rap	2	950812.0
+pop rap	world	2	950812.0
+pop rap	wassoulou	2	950812.0
+blues	rap	2	950812.0
+afrobeat	rap	2	950812.0
+rap	world	2	950812.0
+rap	wassoulou	2	950812.0
+blues	hip hop	2	950812.0
+afrobeat	hip hop	2	950812.0
+hip hop	world	2	950812.0
+hip hop	wassoulou	2	950812.0
+indietronica	r&b	2	1871335.5
+other	other	2	341141.5
+adult standards	swing	2	1009778.0
+lounge	swing	2	1009778.0
+easy listening	lounge	2	1009778.0
+dance	pop rap	2	1684745.5
+trance	tropical house	2	2297881.0
+pop	trance	2	2297881.0
+dance pop	trance	2	2297881.0
+adult standards	dance pop	2	1540941.5
+house	house	2	2580412.0
+electro house	urban contemporary	2	1785199.0
+dance	rap	2	324331.0
+tropical	urban contemporary	2	410432.0
+dance	tropical	2	410432.0
+escape room	pop rap	2	2372029.0
+electropop	pop rock	2	1361226.0
+experimental	rock	2	2988521.0
+dance pop	indie r&b	2	1476001.0
+easy listening	other	2	1289986.5
+azonto	rap	2	504018.5
+azonto	pop rap	2	504018.5
+country	country	2	503825.5
+country rap	hip hop	2	1353404.5
+country	rap	2	768732.0
+country	trap	2	768732.0
+jazz	rap	2	1176428.0
+funk	hip hop	2	189157.0
+hip hop	pop punk	2	659555.0
+emo	hip hop	2	659555.0
+blues rock	rap	2	1183771.0
+blues rock	trap	2	1183771.0
+blues rock	pop rap	2	1183771.0
+classic rock	rap	2	1183771.0
+classic rock	trap	2	1183771.0
+classic rock	pop rap	2	1183771.0
+dubstep	hip hop	2	2708215.0
+rap	trance	2	4750392.0
+escape room	trap	2	1823340.5
+r&b	rock	2	209477.0
+indie r&b	rock	2	209477.0
+rap	soca	2	209477.0
+hip hop	soca	2	209477.0
+rock	urban contemporary	2	209477.0
+reggae	soca	2	209477.0
+rock	soca	2	209477.0
+dancehall	soca	2	209477.0
+country	moombahton	1	6244588.0
+country	ninja	1	6244588.0
+folk	new wave	1	1194177.0
+celtic	new wave	1	1194177.0
+new wave	punk	1	1194177.0
+electro house	europop	1	5936973.0
+pop	synthpop	1	15649671.0
+electro house	synthpop	1	15649671.0
+dubstep	synthpop	1	15649671.0
+dubstep	indie pop	1	15649671.0
+dubstep	indietronica	1	15649671.0
+country rap	pop	1	4322900.0
+dubstep	indie rock	1	846655.0
+deep pop r&b	latin	1	440010.0
+deep pop r&b	reggaeton	1	440010.0
+latin	video game music	1	440010.0
+reggaeton	video game music	1	440010.0
+rap	video game music	1	440010.0
+k-pop	latin	1	440010.0
+k-pop	reggaeton	1	440010.0
+k-pop	rap	1	440010.0
+deep pop r&b	video game music	1	440010.0
+deep pop r&b	k-pop	1	440010.0
+k-pop	video game music	1	440010.0
+country	dubstep	1	20136751.0
+gospel	rap	1	659149.0
+indie pop	indie pop rap	1	5172288.0
+indie pop rap	pop	1	5172288.0
+dance pop	indie pop rap	1	5172288.0
+k-hop	k-pop	1	387335.0
+k-pop	k-pop	1	387335.0
+k-hop	pop rap	1	387335.0
+country rap	k-hop	1	387335.0
+hip hop	k-hop	1	387335.0
+indie pop	rap rock	1	2068841.0
+pop	rap rock	1	2068841.0
+dance pop	rap rock	1	2068841.0
+electropop	rap rock	1	2068841.0
+indie pop	indie rock	1	2068841.0
+indie pop	rock	1	2068841.0
+electropop	indie rock	1	2068841.0
+electropop	rock	1	2068841.0
+disco house	pop	1	279954.0
+disco house	electro	1	279954.0
+dance pop	disco house	1	279954.0
+disco house	tropical house	1	279954.0
+dance	soul	1	6020336.0
+electropop	tropical	1	6316668.0
+house	indietronica	1	811954.0
+dance pop	indietronica	1	811954.0
+country	techno	1	10006046.0
+electropop	ninja	1	13024616.0
+ninja	trap	1	13024616.0
+indie pop rap	soul	1	946227.0
+electro	pagode baiano	1	993608.0
+pagode baiano	tropical house	1	993608.0
+pagode baiano	pop rap	1	993608.0
+brazilian funk	electro	1	993608.0
+brazilian funk	tropical house	1	993608.0
+brazilian funk	pop rap	1	993608.0
+latin	pagode baiano	1	993608.0
+brazilian funk	latin	1	993608.0
+electro	indie	1	1309853.0
+electro house	indie	1	1309853.0
+indie	tropical house	1	1309853.0
+house	indie	1	1309853.0
+dance pop	escape room	1	4369905.0
+indie pop	k-pop	1	6863832.0
+house	video game music	1	2493241.0
+ninja	video game music	1	2493241.0
+electropop	video game music	1	2493241.0
+r&b	video game music	1	2493241.0
+electro house	video game music	1	2493241.0
+dance pop	video game music	1	2493241.0
+pop rap	video game music	1	2493241.0
+ninja	r&b	1	2493241.0
+house	moombahton	1	2493241.0
+electro house	moombahton	1	2493241.0
+moombahton	moombahton	1	2493241.0
+moombahton	pop rap	1	2493241.0
+electro	ninja	1	2493241.0
+electro house	ninja	1	2493241.0
+moombahton	ninja	1	2493241.0
+ninja	pop rap	1	2493241.0
+deep pop r&b	electro	1	381464.0
+deep pop r&b	electro house	1	381464.0
+deep pop r&b	tropical house	1	381464.0
+punk	rock	1	1499286.0
+k-pop	other	1	310821.0
+drill	pop	1	258868.0
+dance pop	drill	1	258868.0
+blues	pop	1	950812.0
+afrobeat	pop	1	950812.0
+pop	world	1	950812.0
+pop	wassoulou	1	950812.0
+blues	r&b	1	950812.0
+afrobeat	r&b	1	950812.0
+r&b	world	1	950812.0
+r&b	wassoulou	1	950812.0
+blues	dance pop	1	950812.0
+afrobeat	dance pop	1	950812.0
+dance pop	world	1	950812.0
+dance pop	wassoulou	1	950812.0
+indie pop	soul	1	2230810.0
+indietronica	soul	1	2230810.0
+dance	dance	1	2338894.0
+pop house	pop house	1	2338894.0
+pop house	tropical house	1	2338894.0
+house	pop house	1	2338894.0
+pop	pop house	1	2338894.0
+dance pop	pop house	1	2338894.0
+pop	swing	1	1613530.0
+easy listening	pop	1	1613530.0
+dance	dubstep	1	2297881.0
+dance	trance	1	2297881.0
+pop rap	trance	1	2297881.0
+adult standards	hip hop	1	1467168.0
+county rock	hip hop	1	1467168.0
+house	urban contemporary	1	410432.0
+dance	urban contemporary	1	410432.0
+electropop	indie	1	220973.0
+folk rock	rock	1	2988521.0
+psychedelic rock	rock	1	2988521.0
+mellow gold	rock	1	2988521.0
+folk rock	pop	1	2988521.0
+experimental	folk rock	1	2988521.0
+pop	psychedelic rock	1	2988521.0
+experimental	psychedelic rock	1	2988521.0
+mellow gold	pop	1	2988521.0
+experimental	mellow gold	1	2988521.0
+classic rock	pop	1	2988521.0
+classic rock	experimental	1	2988521.0
+electro	folk	1	3584844.0
+electro house	folk	1	3584844.0
+indie pop	indie pop	1	3584844.0
+folk	indie pop	1	3584844.0
+folk	tropical house	1	3584844.0
+folk	house	1	3584844.0
+electropop	folk	1	3584844.0
+indie soul	rap	1	254709.0
+hip hop	indie soul	1	254709.0
+adult standards	jazz	1	406026.0
+lounge	lounge	1	406026.0
+jazz	lounge	1	406026.0
+easy listening	swing	1	406026.0
+easy listening	jazz	1	406026.0
+drill	trap	1	228128.0
+indie	indie	1	299083.0
+indie	other	1	299083.0
+indie	pop rock	1	299083.0
+indie	soul	1	299083.0
+other	soul	1	299083.0
+pop rock	soul	1	299083.0
+other	urban contemporary	1	299083.0
+pop rock	urban contemporary	1	299083.0
+azonto	r&b	1	818880.0
+azonto	dance pop	1	818880.0
+afropop	trap	1	818880.0
+azonto	trap	1	818880.0
+country rap	trap	1	768732.0
+classical	other	1	453844.0
+dance pop	funk	1	1610090.0
+jazz	pop rap	1	1176428.0
+jazz	trap	1	1176428.0
+hip hop	other	1	1176428.0
+hip hop	jazz	1	1176428.0
+country	urban contemporary	1	1458813.0
+country	pop rock	1	1458813.0
+country	europop	1	1458813.0
+funk	rap	1	189157.0
+funk	pop rap	1	189157.0
+azonto	hip hop	1	189157.0
+afropop	funk	1	189157.0
+dancehall	funk	1	189157.0
+azonto	funk	1	189157.0
+folk	latin	1	197656.0
+folk	reggaeton	1	197656.0
+folk	r&b	1	197656.0
+indie r&b	r&b	1	1511861.0
+chillwave	r&b	1	1511861.0
+chillwave	pop	1	1511861.0
+escape room	r&b	1	1511861.0
+adult standards	country	1	1614715.0
+country	lounge	1	1614715.0
+lounge	pop	1	1614715.0
+dance pop	lounge	1	1614715.0
+k-pop	r&b	1	205205.0
+electro	k-pop	1	205205.0
+electro house	k-pop	1	205205.0
+k-pop	moombahton	1	205205.0
+hip hop	moombahton	1	205205.0
+k-pop	trap	1	205205.0
+hip hop	pop rock	1	264427.0
+hip hop	indie rock	1	264427.0
+pop punk	trap	1	659555.0
+emo	trap	1	659555.0
+pop punk	rap	1	659555.0
+emo	rap	1	659555.0
+country	county rock	1	238919.0
+country pop	electro	1	6524967.0
+county rock	electro	1	6524967.0
+country pop	electro house	1	6524967.0
+county rock	electro house	1	6524967.0
+country pop	tropical house	1	6524967.0
+county rock	tropical house	1	6524967.0
+country pop	house	1	6524967.0
+county rock	house	1	6524967.0
+electro	indie rock	1	6524967.0
+indie rock	tropical house	1	6524967.0
+house	indie rock	1	6524967.0
+country	indie rock	1	6524967.0
+country pop	indie rock	1	6524967.0
+county rock	indie rock	1	6524967.0
+electro house	pop punk	1	438737.0
+dubstep	pop punk	1	438737.0
+electro house	emo	1	438737.0
+dubstep	emo	1	438737.0
+metal	pop	1	438737.0
+electro house	metal	1	438737.0
+dubstep	metal	1	438737.0
+blues rock	hip hop	1	1183771.0
+classic rock	hip hop	1	1183771.0
+dubstep	pop rock	1	26013474.0
+dance	trap	1	1071610.0
+techno	urban contemporary	1	3159966.0
+rap	techno	1	3159966.0
+pop rap	techno	1	3159966.0
+electro house	electro house	1	4750392.0
+dubstep	electro house	1	4750392.0
+electro house	trance	1	4750392.0
+electropop	trance	1	4750392.0
+dubstep	house	1	4750392.0
+house	trance	1	4750392.0
+dubstep	soul	1	4750392.0
+soul	trance	1	4750392.0
+trance	trap	1	4750392.0
+hip hop	trance	1	4750392.0
+moombahton	pop rock	1	2501479.0
+ninja	pop rock	1	2501479.0
+escape room	escape room	1	871383.0
+country pop	electropop	1	15097630.0
+county rock	electropop	1	15097630.0
+indie r&b	urban contemporary	1	209477.0
+r&b	soca	1	209477.0
+indie r&b	soca	1	209477.0
+soca	urban contemporary	1	209477.0
+pop	soca	1	209477.0
+soca	trap	1	209477.0
+dance pop	soca	1	209477.0
+pop rap	soca	1	209477.0

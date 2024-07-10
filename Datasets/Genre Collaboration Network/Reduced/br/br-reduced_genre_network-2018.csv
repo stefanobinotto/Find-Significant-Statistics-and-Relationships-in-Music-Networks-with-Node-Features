@@ -1,0 +1,525 @@
+source	target	weight	avg_streams
+pop	pop	174	7895755.44
+dance pop	pop	133	4924383.538461538
+brazilian funk	pop	127	12812115.51898734
+brazilian funk	brazilian funk	121	14988098.615384614
+electro	pop	119	8846948.449275363
+hip hop	pop	104	7803250.636363638
+hip hop	hip hop	84	9057199.575757576
+pop	pop rap	84	4545980.413043479
+hip hop	rap	73	5806953.52631579
+hip hop	trap	73	10891973.57142857
+pop	rap	72	5933590.652173912
+brazilian funk	electro	70	14211157.564102566
+pop	tropical house	62	6157885.394736842
+brazilian funk	hip hop	60	14310042.0625
+electro	electro	58	7163016.405405405
+brazilian funk	sertanejo	57	17363127.893617027
+dance pop	pop rap	55	3939823.272727273
+pop	trap	54	10058143.741935484
+electropop	pop	45	2943353.5
+pop rap	rap	42	3298881.88
+latin	pop	42	5799170.884615385
+sertanejo	sertanejo	41	16563161.902439024
+rap	trap	40	6526863.357142857
+pop	sertanejo	39	15576891.4
+dance pop	dance pop	38	3935835.4375
+hip hop	pop rap	37	2883568.9
+pop	reggaeton	37	5524348.208333333
+electro	hip hop	36	14372266.23809524
+pop	r&b	35	4772985.846153846
+electro house	pop	34	10263887.172413792
+dance pop	electro	34	4881748.307692308
+dance pop	rap	34	5274610.9
+house	pop	33	6791456.45
+dance pop	tropical house	33	4173871.391304348
+hip hop	r&b	33	5345598.611111111
+dance pop	hip hop	33	4554781.363636363
+pop rap	trap	30	4679849.470588235
+rap	rap	29	4496106.52
+electro	electro house	26	9388962.133333333
+dance pop	trap	26	6338296.05882353
+latin	reggaeton	25	5938789.5
+dance	pop	22	6420036.846153846
+dance pop	electropop	21	3107796.7058823532
+pagode baiano	pop	20	15716578.823529413
+pop rap	pop rap	20	2504667.6428571427
+hip hop	latin	19	4834142.909090909
+brazilian funk	pagode baiano	19	12062536.57142857
+r&b	rap	18	3606064.8461538465
+trap	trap	18	5538811.384615385
+brazilian funk	brega funk	18	16438302.266666668
+dance pop	latin	18	4838905.166666667
+r&b	trap	17	4524620.1
+other	pop	17	4915950.0
+mpb	pop	16	9864253.615384616
+brazilian funk	forro	15	15375566.5
+moombahton	pop	15	5706637.428571427
+latin	latin	15	5938789.5
+hip hop	reggaeton	15	7006201.714285715
+electro	tropical house	15	5401162.384615385
+electro	pop rap	15	4531416.416666667
+electro	house	14	6110643.8
+pop rap	r&b	14	2357990.4444444445
+pop	tropical	14	3825061.5
+dance pop	reggaeton	14	3987277.6
+brazilian funk	trap	14	17114730.75
+electro	rap	14	5194039.2727272725
+dance pop	house	13	7291481.666666668
+latin	pop rap	13	6161610.0
+pop rap	tropical house	13	2424408.75
+forro	sertanejo	12	8528428.166666666
+ninja	pop	12	3671748.2
+dance pop	r&b	12	3843417.727272727
+pop rap	reggaeton	12	6161610.0
+brazilian funk	latin	11	8357397.222222223
+brazilian funk	reggaeton	11	8357397.222222223
+forro	pop	11	12457903.1
+electro	electropop	11	2650129.6
+electropop	tropical house	11	2786878.125
+latin	tropical	11	5868721.571428573
+brazilian funk	pagode	11	4859476.0
+electro	sertanejo	11	9789682.2
+electro	r&b	11	5043299.222222222
+latin	rap	11	6492650.571428573
+rap	reggaeton	11	6492650.571428573
+latin	trap	11	4461330.666666667
+dance pop	electro house	10	10519803.444444444
+afrofuturism	hip hop	10	24779376.2
+dance	dance pop	10	6812731.111111111
+reggaeton	reggaeton	10	9735009.0
+reggaeton	trap	10	5207631.4
+brazilian funk	r&b	10	8984030.375
+electro	trap	10	6255421.444444444
+pop	urban contemporary	10	3512240.333333333
+electro house	house	9	6646810.75
+mpb	mpb	9	10024853.777777778
+folk	mpb	9	6989331.5
+afrofuturism	pop	9	22031793.166666668
+dance pop	other	9	3359225.5
+pagode	sertanejo	9	11010119.555555556
+pagode	pop	9	5728607.444444444
+brazilian funk	rap	9	5184066.571428572
+country	pop	8	4929196.714285715
+r&b	r&b	8	7104867.5
+pop	rock	8	14805414.5
+hip hop	tropical	8	2414505.6
+brazilian funk	pop rap	8	7464196.25
+indie pop	pop	8	2051472.666666667
+pop rap	urban contemporary	8	4105028.5
+latin	pagode baiano	7	10900205.333333334
+pagode baiano	reggaeton	7	10900205.333333334
+dance	tropical house	7	6122886.714285715
+rap	soul	7	3926440.142857143
+folk	pop	7	13062590.714285715
+brega funk	sertanejo	7	20191586.42857143
+country	dance pop	7	5601635.0
+reggaeton	tropical	7	7923177.2
+pagode baiano	sertanejo	7	30865572.57142857
+axe	brazilian funk	7	4925908.142857143
+afrofuturism	brazilian funk	7	29214353.5
+electropop	pop rap	7	2760502.75
+brazilian funk	electro house	7	10215514.0
+dance pop	tropical	7	4791896.4
+electro	latin	7	3905218.0
+rap	tropical house	7	2785019.6
+hip hop	urban contemporary	7	3429988.2
+rap	urban contemporary	7	4619101.0
+forro	forro	6	13773041.833333336
+dance	electro	6	6636446.666666668
+pop	soul	6	1505921.0
+pop	pop rock	6	10235963.833333334
+brazilian funk	mpb	6	10394669.166666666
+dance pop	k-pop	6	1636489.8
+hip hop	rock	6	14997075.25
+electropop	rap	6	2844546.0
+hip hop	indie	6	9380040.666666666
+brega funk	pop	6	17193107.4
+brazilian funk	tropical house	6	8058804.5
+brazilian funk	dance pop	6	9335066.75
+k-pop	pop	6	2065185.333333333
+tropical house	tropical house	6	1847104.333333333
+electro	reggaeton	6	4478217.666666667
+trap	urban contemporary	6	3646782.5
+dance pop	urban contemporary	6	2230600.5
+electro house	rap	6	3969374.666666666
+house	rap	6	3969374.666666666
+dance pop	moombahton	5	3994232.75
+dance pop	ninja	5	3994232.75
+dance	electropop	5	3413919.6
+pop rap	soul	5	1761885.5
+dubstep	pop	5	14184962.0
+pop rock	rap	5	8788705.4
+pop rap	pop rock	5	8788705.4
+electro house	electropop	5	3749016.4
+other	pop rap	5	1977668.75
+electro	other	5	1562334.8
+axe	pop	5	2559705.8
+electro house	tropical house	5	14111193.6
+pop rap	tropical	5	2999630.333333333
+funk	pop	5	4534920.25
+dancehall	pop	5	5673352.333333332
+brazilian funk	moombahton	5	7989843.666666668
+electro house	hip hop	5	3804019.5
+electro house	trap	5	5050500.5
+electropop	r&b	5	2910280.5
+afrofuturism	trap	4	6736762.5
+country	electropop	4	5062895.25
+country	tropical house	4	4938112.0
+pop	techno	4	2744798.25
+forro	pagode baiano	4	23699891.25
+latin	other	4	4760187.5
+electro house	r&b	4	5194368.0
+pop	reggae	4	14388346.0
+electro house	other	4	5790113.75
+francoton	pop	4	2282210.5
+dance pop	francoton	4	2282210.5
+r&b	tropical house	4	6230884.0
+trap	tropical	4	3756624.666666666
+hip hop	mpb	4	3889890.25
+latin	tropical house	4	806988.0
+house	tropical house	4	7436433.0
+house	pop rap	4	2536833.0
+dancehall	electro	4	5673352.333333332
+forro	pagode	4	3043393.25
+axe	forro	4	3043393.25
+mpb	sertanejo	4	11156707.75
+electropop	electropop	4	2718241.0
+hip hop	tropical house	4	3617733.75
+trap	tropical house	4	5050500.5
+hip hop	house	4	3969374.666666666
+house	trap	4	3969374.666666666
+dance pop	soul	4	3375120.666666666
+dance	house	3	3444740.666666666
+dance	moombahton	3	3444740.666666666
+dance	ninja	3	3444740.666666666
+hip hop	soul	3	1335338.333333333
+dance pop	dubstep	3	15410523.0
+brega funk	forro	3	11633693.0
+country	electro	3	6285960.333333332
+country	electro house	3	6285960.333333332
+mpb	pagode baiano	3	5984908.0
+other	reggaeton	3	6191176.666666668
+mpb	rock	3	12567579.0
+folk	folk	3	10409863.666666666
+hip hop	other	3	3346922.333333333
+afrofuturism	reggae	3	14388346.0
+electro	mpb	3	13563167.333333336
+brazilian funk	samba reggae	3	3299275.666666666
+electro	pagode baiano	3	39503120.333333336
+electropop	hip hop	3	3533510.0
+indie	pop	3	13751660.5
+indie	rap	3	9380040.666666666
+house	r&b	3	5681192.0
+axe	sertanejo	3	2101160.0
+rap	tropical	3	4134532.0
+brega funk	brega funk	3	14075548.0
+electro house	sertanejo	3	9370670.0
+mpb	rap	3	1160482.666666667
+dance pop	funk	3	4692890.0
+indie pop	tropical house	3	1437278.333333333
+other	tropical house	3	548360.6666666665
+reggaeton	tropical house	3	920244.0
+dance pop	dancehall	3	5673352.333333332
+dancehall	latin	3	4363089.5
+dancehall	reggaeton	3	4363089.5
+rock	trap	3	16623294.0
+pagode	pagode baiano	3	5317764.333333333
+electro	indie	3	1295548.0
+electro house	pop rock	3	9101121.5
+electro house	electro house	3	2877366.0
+electropop	indie pop	3	3365103.333333333
+electro house	pop rap	3	2660628.0
+soul	tropical house	3	4814197.5
+electro	soul	3	4814197.5
+dance	pop rap	3	3380634.0
+brazilian funk	dancehall	3	7890368.5
+country pop	pop	3	8994463.5
+county rock	pop	3	8994463.5
+country pop	dance pop	3	8994463.5
+county rock	dance pop	3	8994463.5
+electro	trance	3	3511755.0
+electro house	trance	3	3511755.0
+francoton	latin	2	4543747.5
+francoton	reggaeton	2	4543747.5
+afrofuturism	r&b	2	7666672.5
+afrofuturism	afrofuturism	2	7666672.5
+electropop	techno	2	5056492.0
+country	techno	2	5056492.0
+other	pagode baiano	2	7136649.5
+brazilian funk	other	2	7136649.5
+r&b	techno	2	433104.5
+electro	k-pop	2	993446.5
+electro house	k-pop	2	993446.5
+k-pop	tropical house	2	993446.5
+house	k-pop	2	993446.5
+r&b	rock	2	13370856.5
+folk	rock	2	14549347.5
+r&b	reggae	2	17435580.0
+tropical	tropical	2	1333497.5
+brazilian funk	brega	2	13205273.5
+pop	samba reggae	2	4801199.5
+indie pop	pop rap	2	4352349.0
+indie	trap	2	13578807.0
+brega funk	electro	2	32063477.0
+brazilian funk	tropical	2	4134532.0
+pagode	pagode	2	1418001.0
+electro house	pagode baiano	2	10779765.0
+pagode baiano	tropical house	2	10779765.0
+brazilian funk	house	2	5323748.5
+dance pop	pagode baiano	2	10779765.0
+mpb	trap	2	1249470.0
+electro	indie pop	2	451931.0
+dance pop	indie pop	2	865731.5
+electropop	latin	2	486452.0
+other	tropical	2	2383725.5
+brega	brega funk	2	15736450.5
+dancehall	rap	2	4363089.5
+dancehall	tropical house	2	4766599.0
+rap	rock	2	16623294.0
+mpb	pagode	2	2584094.5
+forro	mpb	2	427844.0
+axe	mpb	2	2584094.5
+axe	pagode baiano	2	1201726.0
+axe	pagode	2	378660.0
+house	house	2	6114788.5
+electro	moombahton	2	6968293.5
+electropop	house	2	6114788.5
+electro	pop rock	2	1608588.0
+electro house	indie	2	1608588.0
+indie pop	video game music	2	850442.5
+electropop	video game music	2	850442.5
+indie pop	k-pop	2	1264243.0
+electropop	k-pop	2	1264243.0
+k-pop	video game music	2	1264243.0
+pop	video game music	2	1264243.0
+r&b	urban contemporary	2	2814882.0
+electropop	other	2	588931.0
+hip hop	k-pop	2	1045562.5
+k-pop	pop rap	2	1045562.5
+dance	r&b	2	7426602.0
+dancehall	pop rap	2	7890368.5
+dancehall	trap	2	7890368.5
+brazilian funk	soca	2	8293878.0
+brazilian funk	reggae	2	8293878.0
+electro	soca	2	8293878.0
+pop	soca	2	8293878.0
+electro	reggae	2	8293878.0
+electro	urban contemporary	2	3243156.0
+indie rock	pop	2	8744897.0
+dance pop	indie rock	2	8744897.0
+europop	pop	2	1169571.0
+indie pop	r&b	2	3366379.0
+latin	urban contemporary	2	729827.0
+house	trance	2	3511755.0
+electropop	trance	2	3511755.0
+electro	video game music	2	436642.0
+electro house	video game music	2	436642.0
+electro	emo	2	436642.0
+electro	metal	2	436642.0
+electro house	emo	2	436642.0
+electro house	metal	2	436642.0
+francoton	pop rap	2	2562811.0
+electro house	soul	2	6586868.0
+house	soul	2	6586868.0
+dubstep	rap	2	6586868.0
+rap	trance	2	6586868.0
+europop	pop rap	2	496967.0
+europop	trap	2	496967.0
+europop	hip hop	2	496967.0
+brega	forro	1	12378483.0
+pop rock	trap	1	729987.0
+hip hop	pop rock	1	729987.0
+electro	pagode	1	4812870.0
+electro	samba reggae	1	4812870.0
+axe	electro	1	4812870.0
+latin	r&b	1	2001610.0
+r&b	reggaeton	1	2001610.0
+francoton	r&b	1	2001610.0
+hip hop	pagode baiano	1	96949831.0
+afrofuturism	pagode baiano	1	96949831.0
+pagode baiano	trap	1	96949831.0
+indie pop	indie pop rap	1	2454003.0
+indie pop rap	pop	1	2454003.0
+dance pop	indie pop rap	1	2454003.0
+electropop	indie pop rap	1	2454003.0
+indie pop	rap	1	2454003.0
+hip hop	indie pop	1	2454003.0
+dubstep	r&b	1	8099586.0
+house	pagode baiano	1	8265687.0
+electro	europop	1	22784181.0
+europop	tropical house	1	22784181.0
+new wave	tropical house	1	11470257.0
+new wave	pop	1	11470257.0
+electropop	new wave	1	11470257.0
+electro	tropical	1	467220.0
+funk	latin	1	467220.0
+funk	tropical	1	467220.0
+tropical	tropical house	1	467220.0
+dance	latin	1	467220.0
+dance	tropical	1	467220.0
+funk	indie pop	1	467220.0
+funk	other	1	467220.0
+electropop	funk	1	467220.0
+dance	indie pop	1	467220.0
+dance	other	1	467220.0
+indie pop	latin	1	467220.0
+indie pop	tropical	1	467220.0
+electropop	tropical	1	467220.0
+pagode baiano	r&b	1	681385.0
+pagode baiano	samba reggae	1	378660.0
+pagode	samba reggae	1	378660.0
+forro	samba reggae	1	378660.0
+axe	samba reggae	1	378660.0
+axe	axe	1	378660.0
+house	moombahton	1	5642709.0
+electro	ninja	1	5642709.0
+house	ninja	1	5642709.0
+gospel	mpb	1	1004816.0
+folk	gospel	1	1004816.0
+indie	tropical house	1	1608588.0
+house	indie	1	1608588.0
+electropop	indie	1	1608588.0
+pop rock	tropical house	1	1608588.0
+house	pop rock	1	1608588.0
+electropop	pop rock	1	1608588.0
+k-pop	k-pop	1	1264243.0
+dance pop	video game music	1	1264243.0
+folk	sertanejo	1	38428849.0
+sertanejo	trap	1	14521267.0
+hip hop	sertanejo	1	14521267.0
+brazilian funk	ninja	1	2381810.0
+brazilian funk	electropop	1	2381810.0
+punk	rock	1	3230580.0
+rock	rock	1	3230580.0
+new wave	rock	1	3230580.0
+classic rock	rock	1	3230580.0
+urban contemporary	urban contemporary	1	5177022.0
+mpb	r&b	1	982508.0
+indie	r&b	1	982508.0
+k-pop	rap	1	1601515.0
+k-pop	trap	1	1601515.0
+funk	r&b	1	3041527.0
+funk	soul	1	3041527.0
+dance	soul	1	3041527.0
+funk	tropical house	1	3041527.0
+funk	pop rap	1	3041527.0
+dubstep	tropical house	1	26459960.0
+mpb	samba reggae	1	4789529.0
+electropop	reggaeton	1	505684.0
+pagode baiano	pagode baiano	1	2024792.0
+indie	mpb	1	34894124.0
+electro house	soca	1	8293878.0
+soca	tropical house	1	8293878.0
+moombahton	soca	1	8293878.0
+dance pop	soca	1	8293878.0
+pop rap	soca	1	8293878.0
+electro house	reggae	1	8293878.0
+reggae	tropical house	1	8293878.0
+moombahton	reggae	1	8293878.0
+dance pop	reggae	1	8293878.0
+pop rap	reggae	1	8293878.0
+dancehall	electro house	1	8293878.0
+dancehall	moombahton	1	8293878.0
+afrofuturism	soca	1	8293878.0
+soca	trap	1	8293878.0
+reggae	trap	1	8293878.0
+afrofuturism	dancehall	1	8293878.0
+afrofuturism	electro	1	8293878.0
+afrofuturism	electro house	1	8293878.0
+afrofuturism	tropical house	1	8293878.0
+afrofuturism	moombahton	1	8293878.0
+moombahton	trap	1	8293878.0
+afrofuturism	dance pop	1	8293878.0
+afrofuturism	pop rap	1	8293878.0
+electro	rock	1	5421504.0
+rock	tropical house	1	5421504.0
+afrofuturism	rap	1	10082112.0
+country pop	electro	1	8744897.0
+county rock	electro	1	8744897.0
+country pop	electro house	1	8744897.0
+county rock	electro house	1	8744897.0
+country pop	tropical house	1	8744897.0
+county rock	tropical house	1	8744897.0
+country	house	1	8744897.0
+country pop	house	1	8744897.0
+county rock	house	1	8744897.0
+electro	indie rock	1	8744897.0
+electro house	indie rock	1	8744897.0
+indie rock	tropical house	1	8744897.0
+house	indie rock	1	8744897.0
+country	indie rock	1	8744897.0
+country pop	indie rock	1	8744897.0
+county rock	indie rock	1	8744897.0
+pagode baiano	rap	1	622151.0
+country pop	electropop	1	9244030.0
+county rock	electropop	1	9244030.0
+dance pop	europop	1	1842175.0
+samba reggae	sertanejo	1	4706297.0
+moombahton	pagode baiano	1	13293843.0
+pagode baiano	pop rap	1	13293843.0
+dancehall	hip hop	1	7486859.0
+dancehall	tropical	1	7486859.0
+other	other	1	4300231.0
+r&b	soul	1	482063.0
+indie r&b	r&b	1	482063.0
+indie r&b	pop	1	482063.0
+chillwave	r&b	1	482063.0
+chillwave	pop	1	482063.0
+escape room	r&b	1	482063.0
+escape room	pop	1	482063.0
+indietronica	r&b	1	482063.0
+indietronica	pop	1	482063.0
+folk	hip hop	1	12078113.0
+brega funk	pagode baiano	1	629733.0
+dance	rap	1	3719741.0
+dance	trap	1	3719741.0
+dance	hip hop	1	3719741.0
+other	rap	1	777654.0
+electro	funk	1	4061011.0
+brazilian funk	funk	1	4061011.0
+reggaeton	urban contemporary	1	729827.0
+tropical	urban contemporary	1	729827.0
+tropical house	video game music	1	436642.0
+house	video game music	1	436642.0
+trance	video game music	1	436642.0
+emo	video game music	1	436642.0
+metal	video game music	1	436642.0
+electro house	indie pop	1	436642.0
+indie pop	trance	1	436642.0
+emo	indie pop	1	436642.0
+indie pop	metal	1	436642.0
+trance	tropical house	1	436642.0
+emo	tropical house	1	436642.0
+metal	tropical house	1	436642.0
+emo	house	1	436642.0
+house	metal	1	436642.0
+electropop	emo	1	436642.0
+electropop	metal	1	436642.0
+tropical house	urban contemporary	1	2562811.0
+electro	francoton	1	2562811.0
+francoton	tropical house	1	2562811.0
+francoton	urban contemporary	1	2562811.0
+francoton	hip hop	1	2562811.0
+dubstep	other	1	16593655.0
+electro house	rock	1	16593655.0
+dubstep	rock	1	16593655.0
+dubstep	pop rock	1	16593655.0
+electropop	soul	1	6586868.0
+electropop	trap	1	6586868.0
+dubstep	electro	1	6586868.0
+dubstep	electro house	1	6586868.0
+dubstep	electropop	1	6586868.0
+dubstep	house	1	6586868.0
+dubstep	soul	1	6586868.0
+soul	trance	1	6586868.0
+dubstep	trap	1	6586868.0
+trance	trap	1	6586868.0
+dubstep	hip hop	1	6586868.0
+hip hop	trance	1	6586868.0
+europop	rap	1	496967.0
+soul	trap	1	496967.0
+europop	r&b	1	496967.0
+europop	soul	1	496967.0
+electro house	latin	1	1344226.0
+electro house	reggaeton	1	1344226.0

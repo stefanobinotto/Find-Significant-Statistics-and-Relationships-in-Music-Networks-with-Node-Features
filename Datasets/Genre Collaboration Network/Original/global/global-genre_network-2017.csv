@@ -1,0 +1,2644 @@
+source	target	weight	avg_streams
+pop rap	rap	326	55308209.38392858
+rap	trap	268	66061098.08695652
+hip hop	rap	250	58862715.67032967
+pop rap	trap	236	63798752.44444445
+dance pop	pop	223	131551792.39130434
+pop	pop rap	216	89798453.94690265
+hip hop	pop rap	214	60289895.21348315
+pop	rap	207	69650079.65486726
+rap	rap	184	58659712.37373737
+hip hop	trap	178	55057573.25333333
+latin	reggaeton	170	128144206.75510204
+rap	southern hip hop	165	48413675.83333334
+pop	pop	159	137270203.22689074
+pop rap	pop rap	146	61470230.5952381
+dance pop	pop rap	145	100121348.09195402
+pop rap	southern hip hop	144	57912841.31578948
+hip hop	pop	140	74042932.3902439
+atl hip hop	rap	135	68745912.87301587
+pop	trap	132	84981816.18571429
+pop	post-teen pop	123	149848818.72941175
+pop	tropical house	121	138845855.36
+southern hip hop	trap	120	57660110.01754386
+dance pop	rap	119	78466057.10810809
+latin	tropical	116	128119600.8095238
+atl hip hop	pop rap	114	50331832.82758621
+edm	pop	106	126062362.75
+hip hop	southern hip hop	103	41072546.96666667
+reggaeton	tropical	99	134988684.21052632
+trap	trap	97	57660110.01754386
+melodic rap	rap	96	84359835.51162791
+latin	latin	96	126196146.66
+atl hip hop	trap	91	45636958.68292682
+dance pop	tropical house	90	143039982.0
+pop rap	post-teen pop	90	113224356.43939394
+pop	southern hip hop	88	76635231.5
+atl hip hop	hip hop	87	50119361.14583334
+dance pop	post-teen pop	87	154026040.76190478
+hip hop	hip hop	85	46171337.76363637
+dance pop	trap	81	97060720.8076923
+latin	latin hip hop	80	144592686.5151515
+dance pop	edm	79	131937352.22807015
+dance pop	hip hop	79	91671561.9245283
+melodic rap	pop rap	76	69815024.8372093
+reggaeton	reggaeton	76	97368157.83333331
+dance pop	dance pop	75	149752897.33333334
+post-teen pop	rap	74	93519484.34545454
+latin	reggaeton flow	74	109505049.625
+reggaeton	trap latino	74	85171536.13043478
+latin	trap latino	73	83701009.5909091
+reggaeton	reggaeton flow	72	105325509.8181818
+latin hip hop	reggaeton	67	104814658.5
+atl hip hop	southern hip hop	66	43135903.1025641
+melodic rap	trap	62	83957351.93939394
+electropop	pop	57	145717129.04545453
+edm	post-teen pop	56	150466525.92
+hip hop	post-teen pop	56	102028954.90697674
+atl hip hop	pop	55	97793136.45945944
+dance pop	southern hip hop	55	76423937.0
+post-teen pop	tropical house	54	161958573.64583334
+electro house	pop	54	102672549.53488372
+hip hop	melodic rap	52	74714386.72413793
+trap latino	tropical	47	94851526.11111107
+post-teen pop	trap	45	120466913.77777778
+latin hip hop	tropical	44	172474535.78947368
+pop rap	tropical house	43	108162725.6
+edm	tropical house	43	118355595.81481482
+edm	pop rap	41	111136396.03333332
+dance pop	electro house	41	116810930.06060606
+reggaeton flow	tropical	41	104517406.46666668
+pop	uk dance	40	110718296.56666666
+rap	urban contemporary	40	69186434.23076923
+melodic rap	southern hip hop	38	54770998.76923077
+melodic rap	pop	38	106988784.1818182
+reggaeton flow	trap latino	38	88791236.07142857
+pop rap	urban contemporary	38	97129248.17391305
+canadian pop	rap	38	64068114.0
+r&b	rap	37	57280424.52173913
+canadian pop	pop rap	35	78056780.4090909
+latin	latin pop	35	152674035.04
+latin hip hop	trap latino	34	98018414.35714284
+gangster rap	pop rap	32	25917593.41176471
+gangster rap	rap	32	22164596.23529412
+dirty south rap	pop rap	32	76971174.39130434
+hip hop	urban contemporary	32	86062692.52
+atl hip hop	dance pop	32	111491642.1153846
+pop rap	r&b	32	88583771.11764705
+atl hip hop	melodic rap	31	83026853.27272727
+canadian pop	trap	31	52477223.76190476
+pop	urban contemporary	31	127571946.26315787
+tropical	tropical	31	167229516.5
+hip hop	r&b	30	59562222.0
+southern hip hop	southern hip hop	29	37327321.44827586
+house	pop	29	67444155.80952379
+dirty south rap	rap	29	81485633.55
+dance pop	uk dance	28	116215198.85714284
+electro house	pop rap	28	85266288.94736843
+pop	progressive house	28	101912025.95454544
+edm	rap	28	94311889.55
+dance pop	electropop	28	168045603.41666666
+tropical house	tropical house	28	120248614.45833331
+latin pop	reggaeton	28	159503763.2173913
+rap	tropical house	27	98009721.31578948
+post-teen pop	southern hip hop	27	109553055.03846154
+pop	r&b	27	89059784.76470588
+electropop	tropical house	27	132124429.71428572
+electro house	post-teen pop	27	124536195.22222222
+latin hip hop	reggaeton flow	26	102326813.11111107
+miami hip hop	rap	25	87013066.29411764
+electro house	rap	25	81557084.94444445
+canadian pop	hip hop	25	93225904.66666669
+r&b	trap	25	61791029.07692308
+edm	trap	25	94684777.0
+trap	tropical house	25	98402234.42105263
+miami hip hop	pop rap	24	84990947.8125
+atl hip hop	atl hip hop	24	32962464.61111111
+pop rap	uk dance	24	94279885.875
+trap	urban contemporary	24	119921609.0
+pop	uk pop	24	167506363.0952381
+gangster rap	trap	23	24447713.0
+house	pop rap	23	68192913.66666667
+dirty south rap	hip hop	23	71949767.125
+dance pop	urban contemporary	23	116797875.0
+latin	pop	23	142160135.05555555
+post-teen pop	uk dance	22	128944033.66666669
+dance pop	progressive house	22	109184938.25
+dirty south rap	pop	22	81984914.38888891
+edm	electropop	22	135463678.83333334
+dance pop	melodic rap	21	110468668.29411764
+pop rap	progressive house	21	76983521.84615384
+dance pop	latin	21	100362813.66666669
+electro house	trap	21	86106735.88235295
+conscious hip hop	hip hop	20	84524704.55555555
+dance pop	r&b	20	89980527.93333334
+trap latino	trap latino	20	77407481.28571428
+post-teen pop	post-teen pop	20	218517495.55
+conscious hip hop	pop rap	19	76482197.4
+dance pop	house	19	64428871.64285714
+electropop	rap	19	62467827.4375
+dirty south rap	trap	19	111618276.28571428
+rap	toronto rap	19	34822885.35714286
+r&b	southern hip hop	19	61791029.07692308
+southern hip hop	tropical house	19	71713477.13333334
+big room	pop	19	99744350.05882353
+miami hip hop	trap	18	104647802.71428572
+chicago rap	rap	18	80134586.33333333
+conscious hip hop	rap	18	76482197.4
+electropop	pop rap	18	71651102.77777778
+progressive house	rap	18	77030854.15384616
+canadian pop	pop	18	157778984.88235295
+pop rap	toronto rap	18	46919891.58333334
+indie poptimism	pop	18	91982839.8
+edm	southern hip hop	18	71713477.13333334
+latin	puerto rican pop	18	211531221.2307692
+puerto rican pop	reggaeton	18	219843492.84615383
+dance pop	uk pop	18	164142110.47058824
+pop	pop edm	18	105289392.6
+conscious hip hop	trap	17	94724755.125
+new orleans rap	pop rap	17	110202067.42857143
+alternative r&b	rap	17	95854837.66666669
+house	rap	17	80172331.25
+rap	uk dance	17	80172331.25
+atl hip hop	canadian pop	17	65811717.0
+atl hip hop	post-teen pop	17	134519279.64705878
+gangster rap	hip hop	17	29582542.272727273
+dance pop	reggaeton	17	106537975.26666668
+pop	reggaeton	17	163066493.0
+hip hop	tropical house	17	113278903.6153846
+latin pop	tropical	17	173777658.125
+chicago rap	hip hop	16	80134586.33333333
+chicago rap	pop rap	16	80134586.33333333
+hip hop	new orleans rap	16	110202067.42857143
+hip hop	miami hip hop	16	73999365.7
+canadian pop	dance pop	16	145155055.46666667
+canadian pop	southern hip hop	16	55526025.6
+canadian hip hop	rap	16	37162183.15384615
+edm	hip hop	16	113278903.6153846
+electro house	southern hip hop	16	76002242.07142857
+progressive house	trap	16	83099007.08333333
+puerto rican pop	tropical	16	226428257.0
+big room	dance pop	16	113150641.8
+colombian pop	latin	16	99246066.27272728
+electropop	post-teen pop	16	215291088.8125
+chicago rap	trap	15	87760298.25
+new orleans rap	rap	15	110202067.42857143
+alternative r&b	pop	15	133706458.54545456
+melodic rap	post-teen pop	15	132364813.85714284
+conscious hip hop	pop	15	162284233.4
+toronto rap	trap	15	35923736.166666664
+dance pop	dirty south rap	15	68148472.08333333
+pop	tropical	15	130063779.85714284
+detroit hip hop	pop	15	51747540.72727273
+house	trap	15	87077723.27272727
+trap	uk dance	15	87077723.27272727
+southern hip hop	urban contemporary	15	101719138.41666669
+reggaeton flow	reggaeton flow	15	80543110.83333333
+edm	uk pop	15	167265204.7142857
+tropical house	uk pop	15	167265204.7142857
+dance pop	pop edm	15	125750515.16666669
+melodic rap	melodic rap	14	55206141.0
+detroit hip hop	pop rap	14	49916497.27272727
+detroit hip hop	rap	14	16249917.875
+atl trap	pop rap	14	18408325.666666668
+atl trap	rap	14	18631016.777777776
+miami hip hop	pop	14	110196558.63636364
+east coast hip hop	rap	14	16722919.818181818
+electro house	tropical house	14	59917558.36363637
+indie poptimism	tropical house	14	111693710.5
+gangster rap	pop	14	81621825.88888891
+edm	edm	14	114248499.58333331
+latin hip hop	latin hip hop	14	105030158.3
+gangster rap	southern hip hop	13	22238252.6
+canadian hip hop	trap	13	38788438.18181818
+canadian hip hop	pop rap	13	37802828.0
+electro house	hip hop	13	96981618.45454544
+progressive house	southern hip hop	13	87423735.81818181
+pop	toronto rap	13	46578829.90909091
+latin hip hop	latin pop	13	213854373.5
+house	post-teen pop	12	75388131.66666667
+art pop	rap	12	14825666.0
+conscious hip hop	southern hip hop	12	76482197.4
+dance pop	tropical	12	76418228.0
+house	southern hip hop	12	92232796.5
+southern hip hop	uk dance	12	92232796.5
+hip pop	pop rap	12	120021074.85714284
+pop edm	post-teen pop	12	112903056.5
+colombian pop	reggaeton	12	101093291.9
+edm	electro house	12	76780629.33333333
+detroit hip hop	trap	11	8956412.0
+atl hip hop	gangster rap	11	14864622.285714285
+dance pop	dancehall	11	91220349.71428572
+dancehall	pop	11	104641062.33333331
+alternative r&b	pop rap	11	114307195.7
+atl hip hop	dirty south rap	11	92757300.3
+east coast hip hop	pop	11	14910234.333333336
+dirty south rap	post-teen pop	11	122962121.36363636
+east coast hip hop	hip hop	11	14950362.444444446
+hip hop	progressive house	11	94697419.33333331
+post-teen pop	progressive house	11	113952788.45454544
+hip pop	rap	11	47955612.25
+canadian contemporary r&b	rap	11	57770666.5
+pop rap	underground hip hop	11	55065516.1
+latin hip hop	puerto rican pop	11	297758676.875
+baile pop	funk carioca	11	30891003.0
+detroit hip hop	hip hop	10	17719935.714285713
+atl trap	trap	10	15411432.857142854
+metropopolis	pop	10	52000076.83333334
+dirty south rap	southern hip hop	10	53176104.8
+chicago rap	pop	10	117948930.4
+post-teen pop	urban contemporary	10	181009761.4
+new orleans rap	pop	10	116300628.83333331
+new orleans rap	trap	10	125853730.33333331
+east coast hip hop	pop rap	10	23380984.71428572
+indie pop rap	pop	10	39404342.4
+dance pop	miami hip hop	10	79245958.875
+latin	post-teen pop	10	175642037.625
+dance pop	detroit hip hop	10	81601815.83333333
+hip hop	house	10	101617955.625
+hip hop	uk dance	10	101617955.625
+edm	urban contemporary	10	85799689.625
+tropical house	urban contemporary	10	85799689.625
+pop rock	rap	10	114062895.0
+dance pop	gangster rap	10	90943424.5
+pop rap	queens hip hop	10	139399146.16666666
+pop edm	tropical house	10	58349361.33333334
+modern rock	rap	10	49942825.0
+big room	post-teen pop	10	114408954.5
+pop	progressive electro house	10	103307690.75
+colombian pop	tropical	10	64466448.44444445
+rap	underground hip hop	10	63508393.0
+atl hip hop	r&b	10	45489165.8
+big room	tropical house	10	46345006.125
+hip hop	rock	10	45712037.0
+latin	pop rap	10	66387606.85714286
+pop rap	reggaeton	10	73612258.0
+modern rock	pop rap	10	42477065.333333336
+hip pop	pop	10	137930532.875
+pop	queens hip hop	10	137930532.875
+melodic rap	miami hip hop	9	107980404.66666669
+detroit hip hop	southern hip hop	9	8956412.0
+atl trap	southern hip hop	9	15411432.857142854
+alternative r&b	dance pop	9	123731110.55555557
+dfw rap	pop	9	27924816.66666667
+canadian pop	melodic rap	9	90499920.0
+atl hip hop	canadian hip hop	9	48644961.875
+atl hip hop	toronto rap	9	48644961.875
+r&b	urban contemporary	9	131760880.875
+dance pop	indie poptimism	9	74232781.28571428
+edm	indie poptimism	9	71164557.14285715
+moombahton	pop	9	114069699.5
+latin pop	pop	9	140585875.33333334
+uk dance	urban contemporary	9	72257016.0
+pop rap	pop rock	9	111225096.83333331
+hip hop	hip pop	9	95368246.42857143
+pop rap	viral pop	9	93762561.22222222
+canadian contemporary r&b	pop rap	9	68283948.25
+canadian contemporary r&b	trap	9	13879200.714285715
+perreo	reggaeton	9	78137872.25
+canadian hip hop	pop	9	28897889.875
+dance pop	toronto rap	9	55879606.625
+colombian pop	latin pop	9	57390361.0
+latin hip hop	pop	9	168288669.44444445
+hip hop	toronto rap	9	40565855.875
+latin pop	reggaeton flow	9	131580423.33333331
+pop	viral pop	9	148551391.88888893
+rap	rock	9	42296642.0
+pop rap	rock	9	58186747.0
+hip hop	modern rock	9	45725086.5
+dance pop	uk hip hop	8	15675702.0
+pop	uk hip hop	8	14864286.2
+art pop	pop	8	23423098.0
+chicago rap	southern hip hop	8	87760298.25
+miami hip hop	post-teen pop	8	147879401.75
+atl hip hop	urban contemporary	8	100659013.375
+dirty south rap	r&b	8	71767212.28571428
+electropop	hip hop	8	77691385.0
+indie pop	pop	8	73854733.66666667
+electro house	urban contemporary	8	52217813.5
+pop	pop rock	8	93292644.125
+hip pop	trap	8	120021074.85714284
+queens hip hop	rap	8	61977274.16666666
+southern hip hop	toronto rap	8	24074576.14285714
+tropical house	uk dance	8	176697740.875
+uk dance	uk pop	8	174232136.875
+latin	perreo	8	78137872.25
+atl hip hop	edm	8	138004429.625
+atl hip hop	tropical house	8	138004429.625
+indietronica	pop	8	26461041.25
+modern alternative rock	pop	8	51707459.0
+edm	pop edm	8	107881194.0
+alternative r&b	hip hop	8	136728468.85714287
+puerto rican pop	reggaeton flow	8	108049062.85714284
+dance pop	progressive electro house	8	67610455.71428572
+pop	underground hip hop	8	66260706.0
+electropop	indie poptimism	8	137979101.42857143
+electronic trap	pop	8	79373262.14285715
+big room	edm	8	52533502.42857143
+pop	trap soul	8	134151970.83333331
+florida rap	pop rap	7	39842918.4
+florida rap	rap	7	39842918.4
+atl hip hop	atl trap	7	16805165.5
+dance pop	uk dancehall	7	18034281.0
+metropopolis	rap	7	30776894.75
+chicago rap	dance pop	7	117948930.4
+conscious hip hop	dance pop	7	181928870.7142857
+atl hip hop	conscious hip hop	7	96268718.71428572
+canadian pop	dirty south rap	7	92396688.14285716
+canadian pop	urban contemporary	7	102435374.71428572
+new orleans rap	southern hip hop	7	125853730.33333331
+dirty south rap	melodic rap	7	127752341.83333331
+atl trap	hip hop	7	15265491.4
+indie pop rap	pop rap	7	52012841.4
+indie pop rap	rap	7	52012841.4
+indie pop rap	post-teen pop	7	35919852.85714286
+dance pop	moombahton	7	121972983.33333331
+dance pop	latin pop	7	51628385.14285714
+post-teen pop	tropical	7	190233665.5
+house	urban contemporary	7	26541695.2
+progressive house	urban contemporary	7	26541695.2
+r&b	tropical house	7	21569218.42857143
+canadian hip hop	southern hip hop	7	27351669.83333333
+gangster rap	melodic rap	7	14461750.5
+g funk	pop	7	20767956.57142857
+perreo	trap latino	7	29487182.33333333
+atl hip hop	electro house	7	101411180.14285716
+alternative r&b	trap	7	116137672.8
+indietronica	tropical house	7	32872307.33333333
+neo soul	rap	7	78562873.0
+post-teen pop	toronto rap	7	72458214.33333333
+contemporary country	pop	7	63477151.2
+country	pop	7	63477151.2
+country road	pop	7	63477151.2
+modern country rock	pop	7	63477151.2
+trap	underground hip hop	7	30178817.0
+hip hop	pop rock	7	83287708.5
+dance pop	latin hip hop	7	84110578.0
+electropop	electropop	7	137979101.42857143
+canadian hip hop	hip hop	7	51128225.16666666
+funk carioca	funk carioca	7	30891003.0
+cubaton	latin	7	150333724.33333334
+pop rap	uk pop	7	101295091.71428572
+norwegian pop	pop	7	57148119.16666666
+pop	swedish pop	7	104422914.71428572
+florida rap	trap	6	39842918.4
+dancehall	tropical house	6	110049841.2
+pop	uk dancehall	6	20480350.0
+electropop	melodic rap	6	39006838.5
+art pop	pop rap	6	16057790.333333336
+dfw rap	rap	6	200087775.8333333
+nz pop	pop	6	27924816.66666667
+nz pop	rap	6	27924816.66666667
+art pop	hip hop	6	5001303.0
+miami hip hop	r&b	6	81350768.83333333
+east coast hip hop	trap	6	10760566.333333334
+electro house	electropop	6	152239500.83333334
+danish pop	pop	6	107168479.0
+post-teen pop	reggaeton	6	212908182.3333333
+detroit hip hop	post-teen pop	6	82026798.16666667
+edm	r&b	6	24496969.33333333
+hip pop	southern hip hop	6	128651405.8
+memphis hip hop	pop rap	6	26752096.0
+queens hip hop	trap	6	139399146.16666666
+hip hop	queens hip hop	6	131159294.4
+canadian contemporary r&b	southern hip hop	6	15097648.5
+canadian contemporary r&b	hip hop	6	85570790.83333333
+atl hip hop	house	6	87703422.66666667
+atl hip hop	progressive house	6	87703422.66666667
+atl hip hop	uk dance	6	87703422.66666667
+alternative r&b	southern hip hop	6	116137672.8
+neo mellow	pop	6	68971794.33333333
+lgbtq+ hip hop	rap	6	96196439.75
+canadian pop	post-teen pop	6	110446496.16666669
+barbadian pop	rap	6	172084968.4
+puerto rican pop	trap latino	6	82024353.5
+country pop	pop	6	76261961.25
+german hip hop	hamburg hip hop	6	3282104.0
+latin	mexican pop	6	106936235.0
+dance pop	electronic trap	6	33428457.2
+progressive electro house	tropical house	6	23252657.75
+dance pop	viral pop	6	124750546.83333331
+tropical house	viral pop	6	166838454.16666666
+edm	viral pop	6	156116464.0
+electropop	trap	6	40785981.0
+bachata	latin	6	66775950.0
+post-teen pop	uk pop	6	267925101.8333333
+post-teen pop	r&b	6	129489787.2
+atl trap	pop	6	133179271.5
+pittsburgh rap	pop rap	6	43704338.5
+dance pop	trap soul	6	144117757.6
+dance pop	hip pop	6	169109552.16666666
+dance pop	queens hip hop	6	169109552.16666666
+pop rap	trap soul	6	217872117.0
+modern rock	trap	6	84323037.0
+rock	trap	6	84323037.0
+conscious hip hop	new orleans rap	5	145819105.4
+dancehall	edm	5	110049841.2
+dancehall	post-teen pop	5	136756379.75
+alternative r&b	electropop	5	107378868.8
+art pop	trap	5	4190764.0
+chicago rap	dirty south rap	5	117948930.4
+chicago rap	miami hip hop	5	117948930.4
+chicago rap	urban contemporary	5	117948930.4
+canadian pop	conscious hip hop	5	210860682.8
+conscious hip hop	post-teen pop	5	240994887.0
+dance pop	new orleans rap	5	122696147.2
+new orleans rap	post-teen pop	5	122696147.2
+indie poptimism	pop rap	5	75555064.4
+indie poptimism	rap	5	38267013.4
+dance pop	indie pop	5	106946517.5
+danish pop	edm	5	107168479.0
+edm	indie pop	5	107168479.0
+latin pop	post-teen pop	5	219239635.2
+electro house	r&b	5	27062209.6
+miami hip hop	southern hip hop	5	26633923.4
+atl hip hop	canadian contemporary r&b	5	17126660.6
+latin pop	trap latino	5	86702834.8
+hip hop	viral pop	5	43699702.2
+rap	viral pop	5	28419289.4
+detroit hip hop	r&b	5	16690193.2
+alternative r&b	tropical house	5	98197339.4
+alternative r&b	atl hip hop	5	116137672.8
+edm	indietronica	5	13745346.25
+electro house	pop edm	5	64833819.8
+dance pop	neo mellow	5	78707844.0
+edm	neo mellow	5	78653247.6
+neo mellow	tropical house	5	78653247.6
+hip hop	neo soul	5	78562873.0
+canadian hip hop	dance pop	5	33170568.6
+canadian hip hop	post-teen pop	5	39494322.5
+barbadian pop	hip hop	5	153393334.6
+barbadian pop	pop rap	5	170690515.5
+philly rap	pop	5	33650904.0
+contemporary country	dance pop	5	100311204.33333331
+country	dance pop	5	100311204.33333331
+country pop	dance pop	5	100311204.33333331
+country road	dance pop	5	100311204.33333331
+dance pop	modern country rock	5	100311204.33333331
+dance pop	modern alternative rock	5	69207057.66666667
+pop edm	pop rap	5	68540750.0
+cubaton	pop	5	118510218.25
+edm	progressive electro house	5	23252657.75
+edm	progressive house	5	18631560.8
+progressive house	tropical house	5	22236196.25
+electro house	viral pop	5	114931682.4
+electropop	viral pop	5	149481635.2
+canadian pop	edm	5	284205705.8
+canadian pop	tropical house	5	277328433.5
+colombian pop	latin hip hop	5	63299840.0
+bachata	reggaeton	5	95106772.0
+big room	electropop	5	108609519.2
+dutch house	tropical house	5	24489606.33333333
+gangster rap	r&b	5	38205848.66666666
+dance pop	funk carioca	5	17064111.5
+funk carioca	pop	5	17064111.5
+funk carioca	pop rap	5	18856980.666666668
+pop rap	tropical	5	43190821.75
+atl trap	dance pop	5	175222683.0
+edm	melodic rap	5	128220907.8
+modern rock	pop	5	42477065.333333336
+pop	rock	5	39870027.66666666
+modern alternative rock	rap	5	41166876.66666666
+rap	stomp pop	5	41166876.66666666
+modern alternative rock	pop rap	5	58186747.0
+pop rap	stomp pop	5	58186747.0
+hip hop	modern alternative rock	5	45725086.5
+hip hop	stomp pop	5	45725086.5
+pittsburgh rap	rap	5	43704338.5
+pittsburgh rap	trap	5	43704338.5
+dance pop	swedish pop	5	142748815.0
+edm	swedish pop	5	131681219.0
+dmv rap	pop	5	179055722.0
+post-teen pop	trap soul	5	156721102.0
+latin	latin arena pop	5	67532331.0
+pop rock	trap	5	102382668.66666669
+dance pop	norwegian pop	5	75827696.75
+dmv rap	southern hip hop	5	23648100.25
+pop	uk funky	5	255281634.75
+dmv rap	hip hop	5	30313647.66666667
+florida rap	melodic rap	4	43296934.25
+chicago rap	new orleans rap	4	161193122.5
+post-teen pop	uk hip hop	4	16920609.0
+dancehall	uk dance	4	136756379.75
+alternative r&b	post-teen pop	4	133222907.75
+metropopolis	pop rap	4	30776894.75
+dfw rap	pop rap	4	151094334.75
+conscious hip hop	dirty south rap	4	145359976.25
+conscious hip hop	urban contemporary	4	188964313.5
+canadian pop	chicago rap	4	149330841.25
+atl hip hop	chicago rap	4	161193122.5
+conscious hip hop	melodic rap	4	149887981.0
+canadian pop	miami hip hop	4	146517506.75
+miami hip hop	new orleans rap	4	151055332.25
+atl hip hop	miami hip hop	4	145290672.75
+melodic rap	urban contemporary	4	145476008.75
+canadian pop	new orleans rap	4	148621641.0
+atl hip hop	new orleans rap	4	161193122.5
+melodic rap	new orleans rap	4	151055332.25
+canadian hip hop	melodic rap	4	63887651.25
+canadian pop	gangster rap	4	21093397.666666668
+gangster rap	toronto rap	4	20214390.0
+melodic rap	toronto rap	4	63887651.25
+east coast hip hop	southern hip hop	4	12999907.5
+dance pop	east coast hip hop	4	3138668.0
+dance pop	indie pop rap	4	23998247.25
+dance pop	danish pop	4	138909456.0
+electro house	indie poptimism	4	92968161.5
+danish pop	tropical house	4	107168479.0
+indie pop	tropical house	4	107168479.0
+house	r&b	4	32074115.5
+progressive house	r&b	4	32074115.5
+r&b	uk dance	4	32074115.5
+dirty south rap	urban contemporary	4	119629099.25
+gangster rap	post-teen pop	4	152129459.0
+queens hip hop	southern hip hop	4	159876095.5
+latin	rap latina	4	120909009.0
+rap latina	reggaeton	4	120909009.0
+house	tropical house	4	65294833.5
+girl group	pop rap	4	53728474.5
+pop rap	talent show	4	53728474.5
+g funk	post-teen pop	4	19122140.25
+g funk	r&b	4	20010266.75
+perreo	tropical	4	29487182.33333333
+alternative r&b	edm	4	121745996.0
+alternative r&b	electro house	4	121745996.0
+alternative r&b	house	4	121745996.0
+alternative r&b	progressive house	4	121745996.0
+alternative r&b	uk dance	4	121745996.0
+edm	modern alternative rock	4	48467815.0
+modern alternative rock	tropical house	4	48467815.0
+complextro	dance pop	4	202759603.75
+dance pop	german techno	4	202759603.75
+complextro	pop	4	202759603.75
+german techno	pop	4	202759603.75
+complextro	post-teen pop	4	202759603.75
+german techno	post-teen pop	4	202759603.75
+hip hop	lgbtq+ hip hop	4	96196439.75
+canadian hip hop	urban contemporary	4	34713287.25
+toronto rap	urban contemporary	4	34713287.25
+pop rap	uk hip hop	4	20810134.25
+rap	uk hip hop	4	20810134.25
+canadian contemporary r&b	pop	4	246172362.75
+post-teen pop	progressive electro house	4	104898922.0
+colombian pop	colombian pop	4	65924709.0
+hip hop	underground hip hop	4	13605954.75
+southern hip hop	underground hip hop	4	13605954.75
+pop	west coast rap	4	126870173.5
+r&b	r&b	4	53985126.5
+philly rap	pop rap	4	99102694.5
+electropop	pop edm	4	25715679.75
+deep german hip hop	german hip hop	4	3282104.0
+deep german hip hop	hamburg hip hop	4	3282104.0
+brazilian edm	pop nacional	4	198292351.0
+funk carioca	funk das antigas	4	30891003.0
+funk carioca	pagode baiano	4	30891003.0
+baile pop	baile pop	4	30891003.0
+funk carioca	pop nacional	4	30891003.0
+detroit hip hop	funk carioca	4	19841194.0
+latin	latin viral pop	4	90276144.66666669
+latin pop	latin pop	4	43445748.25
+mexican pop	reggaeton	4	116797665.75
+mexican pop	tropical	4	98463713.0
+electronic trap	tropical house	4	36258410.333333336
+cubaton	dance pop	4	135516787.0
+cubaton	tropical	4	191755330.5
+cubaton	reggaeton	4	191755330.5
+pop edm	viral pop	4	131739942.75
+moombahton	post-teen pop	4	157413587.25
+australian dance	dance pop	4	88628144.0
+australian dance	pop	4	88628144.0
+g funk	rap	4	32384768.0
+rap	uk pop	4	46180235.75
+electronic trap	post-teen pop	4	111709401.0
+dance pop	deep big room	4	29536345.0
+deep big room	tropical house	4	29536345.0
+dance pop	dutch house	4	24489606.33333333
+dutch house	pop	4	24489606.33333333
+edm	metropopolis	4	76075337.0
+dutch house	edm	4	24489606.33333333
+big room	pop rap	4	79166627.5
+melodic rap	r&b	4	8207575.666666668
+memphis hip hop	rap	4	10411092.0
+baile pop	dance pop	4	19186790.666666668
+baile pop	pop	4	19186790.666666668
+latin pop	pop rap	4	22127215.0
+melodic rap	tropical house	4	154262863.25
+dance pop	pop rock	4	78393613.0
+hip hop	pittsburgh rap	4	43704338.5
+swedish pop	tropical house	4	163215133.75
+alternative hip hop	conscious hip hop	4	4818951.0
+funk carioca	latin	4	46070998.33333334
+funk carioca	reggaeton	4	46070998.33333334
+hip pop	post-teen pop	4	207615302.25
+post-teen pop	queens hip hop	4	207615302.25
+pop	swedish electropop	4	121229780.25
+latin arena pop	tropical	4	67532331.0
+deep house	pop	4	108448716.0
+pop rock	southern hip hop	4	102382668.66666669
+post-teen pop	uk funky	4	255281634.75
+dance pop	uk funky	4	336097671.0
+belgian edm	pop	4	33655309.0
+dmv rap	pop rap	4	43784234.0
+dmv rap	trap	4	43784234.0
+hip hop	trap soul	4	89013708.5
+rap	trap soul	4	89013708.5
+trap	trap soul	4	89013708.5
+modern rock	southern hip hop	4	84323037.0
+rock	southern hip hop	4	84323037.0
+post-teen pop	uk dancehall	3	20480350.0
+edm	uk dancehall	3	20480350.0
+edm	uk hip hop	3	20480350.0
+dancehall	house	3	20480350.0
+house	uk dancehall	3	20480350.0
+house	uk hip hop	3	20480350.0
+tropical house	uk dancehall	3	20480350.0
+tropical house	uk hip hop	3	20480350.0
+uk dance	uk dancehall	3	20480350.0
+uk dance	uk hip hop	3	20480350.0
+alternative r&b	art pop	3	27924816.66666667
+alternative r&b	metropopolis	3	27924816.66666667
+alternative r&b	nz pop	3	27924816.66666667
+alternative r&b	dfw rap	3	27924816.66666667
+alternative r&b	melodic rap	3	27924816.66666667
+art pop	dfw rap	3	27924816.66666667
+art pop	melodic rap	3	27924816.66666667
+dance pop	dfw rap	3	27924816.66666667
+dfw rap	electropop	3	27924816.66666667
+dfw rap	metropopolis	3	27924816.66666667
+melodic rap	metropopolis	3	27924816.66666667
+dfw rap	nz pop	3	27924816.66666667
+melodic rap	nz pop	3	27924816.66666667
+dfw rap	post-teen pop	3	27924816.66666667
+nz pop	pop rap	3	27924816.66666667
+art pop	east coast hip hop	3	4190764.0
+art pop	southern hip hop	3	4190764.0
+conscious hip hop	miami hip hop	3	192731491.3333333
+chicago rap	post-teen pop	3	192731491.3333333
+chicago rap	melodic rap	3	192731491.3333333
+dirty south rap	new orleans rap	3	192731491.3333333
+new orleans rap	urban contemporary	3	192731491.3333333
+atl trap	canadian pop	3	21093397.666666668
+canadian hip hop	gangster rap	3	28115578.0
+hip hop	indie poptimism	3	21707190.666666668
+electropop	indie pop rap	3	28484466.66666667
+danish pop	moombahton	3	105646126.66666669
+electropop	moombahton	3	105646126.66666669
+indie pop	moombahton	3	105646126.66666669
+indie poptimism	moombahton	3	105646126.66666669
+moombahton	tropical house	3	105646126.66666669
+indie pop	pop rap	3	105350178.0
+boy band	dance pop	3	97744280.33333331
+boy band	pop	3	97744280.33333331
+miami hip hop	urban contemporary	3	154750174.66666666
+urban contemporary	urban contemporary	3	154750174.66666666
+dance pop	memphis hip hop	3	34587651.0
+memphis hip hop	pop	3	34587651.0
+atl hip hop	detroit hip hop	3	6162047.333333332
+deep pop r&b	edm	3	151060319.0
+latin pop	puerto rican pop	3	72515516.33333333
+rap latina	trap latino	3	112607439.33333331
+dance pop	uk contemporary r&b	3	116727599.33333331
+edm	uk contemporary r&b	3	116727599.33333331
+pop	uk contemporary r&b	3	116727599.33333331
+tropical house	uk contemporary r&b	3	116727599.33333331
+uk contemporary r&b	uk dance	3	116727599.33333331
+girl group	hip hop	3	67193899.33333333
+girl group	rap	3	33508535.33333333
+girl group	southern hip hop	3	67193899.33333333
+girl group	trap	3	67193899.33333333
+hip hop	talent show	3	67193899.33333333
+rap	talent show	3	33508535.33333333
+southern hip hop	talent show	3	67193899.33333333
+talent show	trap	3	67193899.33333333
+southern hip hop	viral pop	3	67193899.33333333
+trap	viral pop	3	67193899.33333333
+dance pop	g funk	3	23509589.33333333
+dance pop	neo soul	3	132721397.33333331
+neo soul	pop	3	132721397.33333331
+grime	hip hop	3	24181487.66666667
+hip hop	uk hip hop	3	24181487.66666667
+grime	pop rap	3	24181487.66666667
+grime	rap	3	24181487.66666667
+indie pop	rap	3	43203426.333333336
+indietronica	rap	3	43203426.333333336
+atl hip hop	dfw rap	3	372250735.0
+dfw rap	trap	3	372250735.0
+contemporary country	tropical house	3	59894982.66666666
+country	tropical house	3	59894982.66666666
+country pop	tropical house	3	59894982.66666666
+country road	tropical house	3	59894982.66666666
+modern country rock	tropical house	3	59894982.66666666
+contemporary country	post-teen pop	3	100311204.33333331
+country	post-teen pop	3	100311204.33333331
+country pop	post-teen pop	3	100311204.33333331
+country road	post-teen pop	3	100311204.33333331
+modern country rock	post-teen pop	3	100311204.33333331
+modern alternative rock	post-teen pop	3	69207057.66666667
+champeta	colombian pop	3	71087037.66666667
+champeta	latin	3	71087037.66666667
+colombian pop	vallenato	3	71087037.66666667
+latin	vallenato	3	71087037.66666667
+electropop	nyc pop	3	18061275.666666668
+nyc pop	pop	3	18061275.666666668
+nyc pop	tropical house	3	18061275.666666668
+atl hip hop	east coast hip hop	3	5312081.0
+east coast hip hop	underground hip hop	3	17079008.333333332
+art pop	underground hip hop	3	5440042.0
+latin hip hop	post-teen pop	3	308858994.6666667
+indie electropop	pop	3	48283543.0
+indie electropop	tropical house	3	48283543.0
+philly rap	rap	3	141876707.33333334
+philly rap	trap	3	141876707.33333334
+german hip hop	german hip hop	3	3282104.0
+hamburg hip hop	hamburg hip hop	3	3282104.0
+brazilian edm	brazilian edm	3	198292351.0
+baile pop	funk das antigas	3	30891003.0
+baile pop	pagode baiano	3	30891003.0
+baile pop	pop nacional	3	30891003.0
+baile pop	detroit hip hop	3	19841194.0
+afrofuturismo brasileiro	funk carioca	3	19841194.0
+bass trap	funk carioca	3	19841194.0
+electronic trap	funk carioca	3	19841194.0
+edm	toronto rap	3	69687835.0
+latin viral pop	reggaeton	3	90276144.66666669
+edm	electronic trap	3	36258410.333333336
+electro house	electronic trap	3	36258410.333333336
+dance pop	reggaeton flow	3	139113872.33333334
+cubaton	latin hip hop	3	191755330.5
+cubaton	reggaeton flow	3	191755330.5
+latin hip hop	mexican pop	3	126150162.33333331
+pop	reggaeton flow	3	139113872.33333334
+edm	house	3	4312178.333333333
+post-teen pop	viral pop	3	173755615.66666666
+indie poptimism	post-teen pop	3	83592038.66666667
+conscious hip hop	rock	3	65004487.5
+big room	viral pop	3	99267881.33333331
+dancehall	latin	3	30584062.0
+dancehall	reggaeton	3	30584062.0
+bachata	latin hip hop	3	95106772.0
+bachata	tropical	3	95106772.0
+big room	electro house	3	21785026.0
+detroit hip hop	urban contemporary	3	5799432.666666668
+g funk	pop rap	3	32384768.0
+edm	uk dance	3	157083221.66666666
+electro house	uk dance	3	32551639.0
+trap	uk pop	3	43109372.66666666
+deep big room	pop	3	26828669.0
+electropop	progressive house	3	168788918.33333334
+metropopolis	tropical house	3	111340225.5
+deep big room	edm	3	29536345.0
+big room	rap	3	33592643.333333336
+big room	southern hip hop	3	33592643.333333336
+big room	trap	3	33592643.333333336
+electropop	southern hip hop	3	35165012.333333336
+dance pop	funk das antigas	3	19186790.666666668
+dance pop	pagode baiano	3	19186790.666666668
+funk das antigas	pop	3	19186790.666666668
+pagode baiano	pop	3	19186790.666666668
+baile pop	edm	3	26813158.0
+edm	funk carioca	3	26813158.0
+baile pop	electro house	3	26813158.0
+electro house	funk carioca	3	26813158.0
+baile pop	tropical house	3	26813158.0
+funk carioca	tropical house	3	26813158.0
+baile pop	pop rap	3	22937434.0
+cubaton	pop rap	3	64710671.0
+electro house	melodic rap	3	74298092.33333333
+pop rap	trap queen	3	74783182.5
+miami hip hop	reggaeton	3	124367992.0
+post-teen pop	swedish pop	3	179361531.0
+deep tropical house	pop	3	78499118.0
+deep tropical house	post-teen pop	3	78499118.0
+big room	swedish pop	3	72794082.33333333
+moombahton	pop rap	3	182128065.0
+moombahton	rap	3	182128065.0
+rap	west coast rap	3	30070549.33333333
+big room	uk pop	3	227168036.3333333
+alternative hip hop	hip hop	3	4818951.0
+alternative hip hop	rap	3	4818951.0
+electro latino	pop rap	3	21670972.5
+dutch house	electro house	3	17067845.0
+dutch pop	edm	3	24700472.0
+dutch pop	pop	3	24700472.0
+dutch pop	tropical house	3	24700472.0
+latin	rap	3	7238987.5
+rap	reggaeton	3	7238987.5
+latin	southern hip hop	3	7238987.5
+reggaeton	southern hip hop	3	7238987.5
+latin	trap	3	7238987.5
+reggaeton	trap	3	7238987.5
+barbadian pop	pop	3	282868534.5
+barbadian pop	trap	3	282564974.0
+g funk	hip hop	3	45597255.5
+australian dance	post-teen pop	3	108422244.33333331
+dance pop	downtempo	3	21304205.0
+downtempo	pop	3	21304205.0
+downtempo	post-teen pop	3	21304205.0
+edm	swedish electropop	3	157749451.0
+australian pop	pop	3	191114574.0
+contemporary country	country road	3	13617013.0
+uk funky	uk pop	3	310965427.6666667
+dance pop	indietronica	3	15912847.666666664
+dancehall	uk pop	3	188801774.66666663
+belgian edm	edm	3	33655309.0
+belgian edm	tropical house	3	33655309.0
+canadian contemporary r&b	melodic rap	3	6020290.333333332
+latin	spanish pop	3	39135112.0
+conscious hip hop	east coast hip hop	3	3372475.0
+dmv rap	rap	3	43784234.0
+deep euro house	pop	3	139964934.0
+german dance	pop	3	139964934.0
+edm	pop rock	3	94162741.33333331
+pop rock	tropical house	3	94162741.33333331
+modern alternative rock	trap	3	84323037.0
+stomp pop	trap	3	84323037.0
+latin arena pop	reggaeton	3	67574150.0
+perreo	reggaeton flow	3	15156683.0
+atl trap	canadian hip hop	2	28115578.0
+atl trap	toronto rap	2	28115578.0
+canadian contemporary r&b	electro	2	444866486.5
+canadian pop	electro	2	444866486.5
+electro	pop	2	444866486.5
+canadian contemporary r&b	filter house	2	444866486.5
+canadian pop	filter house	2	444866486.5
+filter house	pop	2	444866486.5
+francoton	latin	2	328132666.0
+francoton	reggaeton	2	328132666.0
+east coast hip hop	indie pop rap	2	52309113.0
+hip hop	indie pop rap	2	52309113.0
+indie pop rap	southern hip hop	2	52309113.0
+indie pop rap	trap	2	52309113.0
+east coast hip hop	post-teen pop	2	3138668.0
+east coast hip hop	r&b	2	3138668.0
+dirty south rap	east coast hip hop	2	3138668.0
+east coast hip hop	miami hip hop	2	3138668.0
+east coast hip hop	urban contemporary	2	3138668.0
+etherpop	hip hop	2	30862394.0
+etherpop	indie pop rap	2	30862394.0
+indie pop rap	indie poptimism	2	30862394.0
+etherpop	pop rap	2	30862394.0
+etherpop	rap	2	30862394.0
+danish pop	electro house	2	152496416.0
+electro house	indie pop	2	152496416.0
+danish pop	pop rap	2	152496416.0
+boy band	girl group	2	55088751.0
+boy band	post-teen pop	2	55088751.0
+boy band	talent show	2	55088751.0
+boy band	uk pop	2	55088751.0
+girl group	latin	2	55088751.0
+latin	talent show	2	55088751.0
+latin	uk pop	2	55088751.0
+girl group	latin pop	2	55088751.0
+latin pop	talent show	2	55088751.0
+latin pop	uk pop	2	55088751.0
+girl group	reggaeton	2	55088751.0
+reggaeton	talent show	2	55088751.0
+reggaeton	uk pop	2	55088751.0
+girl group	tropical	2	55088751.0
+talent show	tropical	2	55088751.0
+tropical	uk pop	2	55088751.0
+detroit hip hop	edm	2	207836114.0
+detroit hip hop	electro house	2	207836114.0
+detroit hip hop	house	2	207836114.0
+detroit hip hop	progressive house	2	207836114.0
+detroit hip hop	tropical house	2	207836114.0
+detroit hip hop	uk dance	2	207836114.0
+dirty south rap	edm	2	5775089.0
+edm	miami hip hop	2	5775089.0
+dirty south rap	electro house	2	5775089.0
+electro house	miami hip hop	2	5775089.0
+dirty south rap	house	2	5775089.0
+house	miami hip hop	2	5775089.0
+dirty south rap	progressive house	2	5775089.0
+miami hip hop	progressive house	2	5775089.0
+dirty south rap	tropical house	2	5775089.0
+miami hip hop	tropical house	2	5775089.0
+dirty south rap	uk dance	2	5775089.0
+miami hip hop	uk dance	2	5775089.0
+chicago rap	edm	2	5775089.0
+chicago rap	electro house	2	5775089.0
+chicago rap	house	2	5775089.0
+chicago rap	progressive house	2	5775089.0
+chicago rap	tropical house	2	5775089.0
+chicago rap	uk dance	2	5775089.0
+dirty south rap	hip pop	2	43093100.0
+gangster rap	hip pop	2	43093100.0
+hip pop	memphis hip hop	2	43093100.0
+memphis hip hop	post-teen pop	2	43093100.0
+dirty south rap	queens hip hop	2	43093100.0
+gangster rap	queens hip hop	2	43093100.0
+memphis hip hop	queens hip hop	2	43093100.0
+piano rock	pop rap	2	141884110.0
+dance pop	deep pop r&b	2	186545318.0
+deep pop r&b	pop	2	186545318.0
+deep pop r&b	tropical house	2	186545318.0
+deep pop r&b	uk dance	2	186545318.0
+puerto rican pop	rap latina	2	74986199.5
+atl trap	gangster rap	2	18524443.0
+gangster rap	gangster rap	2	18524443.0
+house	uk contemporary r&b	2	126227909.0
+house	uk pop	2	126227909.0
+atl hip hop	girl group	2	43596703.0
+dirty south rap	girl group	2	43596703.0
+atl hip hop	talent show	2	43596703.0
+dirty south rap	talent show	2	43596703.0
+atl hip hop	viral pop	2	43596703.0
+dirty south rap	viral pop	2	43596703.0
+canadian contemporary r&b	dirty south rap	2	12657090.0
+complextro	pop edm	2	118121216.5
+german techno	pop edm	2	118121216.5
+neo mellow	uk dance	2	55389007.0
+dance pop	lgbtq+ hip hop	2	188799832.0
+edm	lgbtq+ hip hop	2	188799832.0
+edm	neo soul	2	188799832.0
+electro house	lgbtq+ hip hop	2	188799832.0
+electro house	neo soul	2	188799832.0
+house	lgbtq+ hip hop	2	188799832.0
+house	neo soul	2	188799832.0
+lgbtq+ hip hop	pop	2	188799832.0
+lgbtq+ hip hop	progressive house	2	188799832.0
+neo soul	progressive house	2	188799832.0
+lgbtq+ hip hop	tropical house	2	188799832.0
+neo soul	tropical house	2	188799832.0
+lgbtq+ hip hop	uk dance	2	188799832.0
+neo soul	uk dance	2	188799832.0
+atl hip hop	lgbtq+ hip hop	2	188799832.0
+lgbtq+ hip hop	pop rap	2	188799832.0
+lgbtq+ hip hop	southern hip hop	2	188799832.0
+lgbtq+ hip hop	trap	2	188799832.0
+atl hip hop	neo soul	2	188799832.0
+neo soul	pop rap	2	188799832.0
+neo soul	southern hip hop	2	188799832.0
+neo soul	trap	2	188799832.0
+barbadian pop	canadian hip hop	2	58816057.0
+canadian hip hop	r&b	2	58816057.0
+barbadian pop	canadian pop	2	58816057.0
+canadian pop	r&b	2	58816057.0
+barbadian pop	toronto rap	2	58816057.0
+r&b	toronto rap	2	58816057.0
+canadian hip hop	grime	2	33832699.5
+canadian hip hop	london rap	2	33832699.5
+canadian hip hop	uk hip hop	2	33832699.5
+canadian pop	grime	2	33832699.5
+canadian pop	london rap	2	33832699.5
+canadian pop	uk hip hop	2	33832699.5
+hip hop	london rap	2	33832699.5
+london rap	pop rap	2	33832699.5
+london rap	rap	2	33832699.5
+grime	toronto rap	2	33832699.5
+london rap	toronto rap	2	33832699.5
+toronto rap	uk hip hop	2	33832699.5
+art pop	canadian contemporary r&b	2	16670520.0
+art pop	canadian pop	2	16670520.0
+canadian pop	hollywood	2	13261771.5
+canadian pop	viral pop	2	13261771.5
+indie pop	melodic rap	2	63106747.5
+indie poptimism	melodic rap	2	63106747.5
+indietronica	melodic rap	2	63106747.5
+melodic rap	modern rock	2	63106747.5
+electropop	philly rap	2	63106747.5
+indie pop	philly rap	2	63106747.5
+indie poptimism	philly rap	2	63106747.5
+indietronica	philly rap	2	63106747.5
+modern rock	philly rap	2	63106747.5
+big room	contemporary country	2	87785358.0
+big room	country	2	87785358.0
+big room	country pop	2	87785358.0
+big room	country road	2	87785358.0
+big room	modern country rock	2	87785358.0
+contemporary country	edm	2	87785358.0
+country	edm	2	87785358.0
+country pop	edm	2	87785358.0
+country road	edm	2	87785358.0
+edm	modern country rock	2	87785358.0
+contemporary country	electro house	2	87785358.0
+country	electro house	2	87785358.0
+country pop	electro house	2	87785358.0
+country road	electro house	2	87785358.0
+electro house	modern country rock	2	87785358.0
+contemporary country	progressive electro house	2	87785358.0
+country	progressive electro house	2	87785358.0
+country pop	progressive electro house	2	87785358.0
+country road	progressive electro house	2	87785358.0
+modern country rock	progressive electro house	2	87785358.0
+contemporary country	progressive house	2	87785358.0
+country	progressive house	2	87785358.0
+country pop	progressive house	2	87785358.0
+country road	progressive house	2	87785358.0
+modern country rock	progressive house	2	87785358.0
+big room	modern alternative rock	2	87785358.0
+electro house	modern alternative rock	2	87785358.0
+modern alternative rock	progressive electro house	2	87785358.0
+modern alternative rock	progressive house	2	87785358.0
+contemporary country	modern alternative rock	2	87785358.0
+country	modern alternative rock	2	87785358.0
+country pop	modern alternative rock	2	87785358.0
+country road	modern alternative rock	2	87785358.0
+modern alternative rock	modern country rock	2	87785358.0
+champeta	reggaeton	2	66243651.5
+reggaeton	vallenato	2	66243651.5
+art pop	atl hip hop	2	4443603.0
+conscious hip hop	pop rock	2	161174240.0
+electropop	indie electropop	2	71126229.5
+electropop	indietronica	2	71126229.5
+pop	vapor soul	2	17627093.0
+atl hip hop	philly rap	2	194161726.0
+hip hop	philly rap	2	194161726.0
+grime	pop	2	6440190.5
+grime	uk pop	2	6440190.5
+uk hip hop	uk pop	2	6440190.5
+pop edm	pop edm	2	26487484.5
+canadian hip hop	dirty south rap	2	21634081.5
+dirty south rap	toronto rap	2	21634081.5
+dance pop	philly rap	2	7502251.5
+francoton	pop	2	63004540.0
+edm	indie cafe pop	2	90670976.0
+indie cafe pop	pop	2	90670976.0
+indie cafe pop	tropical house	2	90670976.0
+electro house	pop nacional	2	120116581.5
+brazilian edm	electro house	2	198292351.0
+funk das antigas	pop nacional	2	30891003.0
+pagode baiano	pop nacional	2	30891003.0
+afrofuturismo brasileiro	baile pop	2	19841194.0
+baile pop	bass trap	2	19841194.0
+baile pop	electronic trap	2	19841194.0
+electro house	toronto rap	2	92505209.5
+toronto rap	tropical house	2	92505209.5
+dance pop	underground hip hop	2	4060787.5
+edm	gangster rap	2	19969502.5
+edm	underground hip hop	2	4060787.5
+electro house	gangster rap	2	19969502.5
+electro house	underground hip hop	2	4060787.5
+gangster rap	house	2	19969502.5
+house	underground hip hop	2	4060787.5
+gangster rap	progressive house	2	19969502.5
+progressive house	underground hip hop	2	4060787.5
+gangster rap	tropical house	2	19969502.5
+tropical house	underground hip hop	2	4060787.5
+gangster rap	uk dance	2	19969502.5
+uk dance	underground hip hop	2	4060787.5
+gangster rap	urban contemporary	2	49058197.0
+underground hip hop	urban contemporary	2	4060787.5
+brostep	pop	2	278940089.5
+champeta	latin pop	2	48089087.5
+latin pop	mexican pop	2	41447438.5
+latin viral pop	tropical	2	41489257.5
+electronic trap	pop rap	2	57145544.5
+cubaton	latin pop	2	172309765.5
+cubaton	mexican pop	2	172309765.5
+mexican pop	reggaeton flow	2	155479987.5
+edm	social media pop	2	299723337.0
+canadian pop	electro house	2	358493029.5
+canadian pop	electropop	2	243876851.5
+indie pop	post-teen pop	2	112906265.5
+hip hop	permanent wave	2	25225531.5
+permanent wave	rap	2	25225531.5
+dancehall	tropical	2	30584062.0
+indie pop rap	viral pop	2	24262908.5
+bachata	reggaeton flow	2	87048979.0
+big room	big room	2	21785026.0
+g funk	urban contemporary	2	6994199.5
+electro house	electro house	2	9268614.0
+electro house	progressive house	2	9268614.0
+electronic trap	rap	2	14133052.5
+conscious hip hop	gangster rap	2	34911723.5
+southern hip hop	uk pop	2	16577263.5
+electropop	r&b	2	14619563.5
+dutch house	electropop	2	29572305.0
+dutch house	post-teen pop	2	29572305.0
+electropop	progressive electro house	2	36494219.0
+big room	hip hop	2	35098216.5
+dutch house	pop rap	2	29572305.0
+candy pop	dance pop	2	39333129.0
+dance pop	metropopolis	2	39333129.0
+candy pop	edm	2	39333129.0
+candy pop	pop	2	39333129.0
+candy pop	tropical house	2	39333129.0
+florida rap	hip hop	2	21801804.0
+hip hop	memphis hip hop	2	10411092.0
+melodic rap	memphis hip hop	2	17576753.0
+memphis hip hop	trap	2	17576753.0
+permanent wave	pop	2	351149862.0
+permanent wave	tropical house	2	351149862.0
+edm	funk das antigas	2	26813158.0
+edm	pagode baiano	2	26813158.0
+electro house	funk das antigas	2	26813158.0
+electro house	pagode baiano	2	26813158.0
+funk das antigas	tropical house	2	26813158.0
+pagode baiano	tropical house	2	26813158.0
+funk das antigas	pop rap	2	22937434.0
+pagode baiano	pop rap	2	22937434.0
+latin hip hop	pop rap	2	64710671.0
+canadian pop	toronto rap	2	9956998.0
+atl trap	post-teen pop	2	261165818.0
+house	melodic rap	2	19618276.0
+melodic rap	progressive house	2	19618276.0
+melodic rap	uk dance	2	19618276.0
+escape room	pop rap	2	74732588.0
+latin	miami hip hop	2	124367992.0
+dance pop	modern rock	2	21554079.5
+electropop	pop rock	2	25688887.0
+pop	stomp pop	2	58186747.0
+modern rock	post-teen pop	2	21554079.5
+pop rock	post-teen pop	2	25688887.0
+detroit hip hop	detroit hip hop	2	15096296.5
+detroit hip hop	hip pop	2	5890626.5
+deep pop r&b	hip hop	2	3752647.0
+hip hop	trap queen	2	3752647.0
+deep pop r&b	pop rap	2	3752647.0
+deep pop r&b	rap	2	3752647.0
+rap	trap queen	2	3752647.0
+deep pop r&b	southern hip hop	2	3752647.0
+southern hip hop	trap queen	2	3752647.0
+deep pop r&b	trap	2	3752647.0
+trap	trap queen	2	3752647.0
+hip hop	vapor soul	2	14256838.5
+rap	vapor soul	2	14256838.5
+pittsburgh rap	southern hip hop	2	43704338.5
+atl hip hop	pittsburgh rap	2	3085640.0
+gangster rap	pittsburgh rap	2	3085640.0
+melodic rap	pittsburgh rap	2	3085640.0
+electro house	swedish pop	2	40050525.0
+deep tropical house	viral pop	2	101136424.5
+moombahton	trap	2	182128065.0
+atl hip hop	west coast rap	2	12728541.5
+pop rap	west coast rap	2	12728541.5
+southern hip hop	west coast rap	2	12728541.5
+trap	west coast rap	2	12728541.5
+canadian pop	deep house	2	24043561.0
+champeta	dance pop	2	56709840.5
+colombian pop	dance pop	2	56709840.5
+latin	reggae fusion	2	29952565.0
+reggae fusion	reggaeton	2	29952565.0
+reggae fusion	tropical	2	29952565.0
+chicano rap	pop rap	2	33505009.5
+big room	deep big room	2	24637953.0
+deep big room	electro house	2	24637953.0
+big room	dutch house	2	14324209.0
+big room	progressive electro house	2	14324209.0
+dutch house	progressive electro house	2	14324209.0
+electro house	progressive electro house	2	14324209.0
+dance pop	dutch pop	2	24700472.0
+progressive house	uk pop	2	232807764.5
+dance pop	dmv rap	2	226422064.5
+baile pop	latin	2	63758460.5
+baile pop	reggaeton	2	63758460.5
+funk das antigas	latin	2	63758460.5
+funk das antigas	reggaeton	2	63758460.5
+cubaton	miami hip hop	2	106381642.0
+pop	talent show	2	63610909.0
+hip hop	west coast rap	2	43056007.5
+alternative metal	hip hop	2	5240806.0
+hip hop	nu metal	2	5240806.0
+hip hop	post-grunge	2	5240806.0
+hip hop	rap metal	2	5240806.0
+alternative metal	pop rap	2	5240806.0
+nu metal	pop rap	2	5240806.0
+pop rap	post-grunge	2	5240806.0
+pop rap	rap metal	2	5240806.0
+alternative metal	rap	2	5240806.0
+nu metal	rap	2	5240806.0
+post-grunge	rap	2	5240806.0
+rap	rap metal	2	5240806.0
+r&b	uk pop	2	47334013.0
+canadian contemporary r&b	conscious hip hop	2	238054470.0
+danish pop	electropop	2	61840542.0
+electropop	indie pop	2	61840542.0
+edm	hip pop	2	92098052.0
+edm	queens hip hop	2	92098052.0
+electro house	hip pop	2	92098052.0
+electro house	queens hip hop	2	92098052.0
+hip pop	tropical house	2	92098052.0
+queens hip hop	tropical house	2	92098052.0
+hip pop	toronto rap	2	98445247.5
+hip pop	urban contemporary	2	328093669.5
+queens hip hop	toronto rap	2	98445247.5
+queens hip hop	urban contemporary	2	328093669.5
+barbadian pop	dance pop	2	282868534.5
+barbadian pop	southern hip hop	2	282564974.0
+electropop	toronto rap	2	60113338.5
+detroit hip hop	g funk	2	45597255.5
+australian dance	electropop	2	160685232.0
+adult standards	canadian pop	2	7279933.5
+dance pop	shiver pop	2	29183527.5
+pop	shiver pop	2	29183527.5
+post-teen pop	shiver pop	2	29183527.5
+contemporary country	electropop	2	64738564.5
+country	electropop	2	64738564.5
+country pop	electropop	2	64738564.5
+country road	electropop	2	64738564.5
+electropop	modern country rock	2	64738564.5
+latin arena pop	latin pop	2	67532331.0
+alternative r&b	canadian pop	2	239304571.5
+hip hop	indie r&b	2	16444373.0
+indie r&b	rap	2	16444373.0
+emo rap	melodic rap	2	110220715.5
+emo rap	rap	2	110220715.5
+emo rap	trap	2	110220715.5
+pop	puerto rican pop	2	481490487.0
+post-teen pop	puerto rican pop	2	481490487.0
+deep house	pop rap	2	88346101.0
+latin viral pop	trap latino	2	127712034.5
+german dance	post-teen pop	2	81917140.0
+australian pop	dance pop	2	159860586.5
+australian pop	post-teen pop	2	159860586.5
+alternative hip hop	dmv rap	2	3511966.5
+alternative hip hop	pop rap	2	3511966.5
+conscious hip hop	conscious hip hop	2	3511966.5
+conscious hip hop	dmv rap	2	3511966.5
+trap soul	urban contemporary	2	284646657.0
+electropop	uk dance	2	162614420.0
+contemporary country	contemporary country	2	13617013.0
+contemporary country	country	2	13617013.0
+southern hip hop	uk hip hop	2	7787569.0
+trap	uk hip hop	2	7787569.0
+hip hop	uk pop	2	32701080.5
+pop	scandipop	2	223074528.0
+latin	pop reggaeton	2	66134968.5
+pop reggaeton	reggaeton	2	66134968.5
+tropical house	uk funky	2	460031378.5
+pop rap	uk funky	2	411163127.0
+swedish pop	uk dance	2	247680914.0
+dance pop	west coast rap	2	121231746.0
+electro latino	latin	2	26024228.5
+electro latino	reggaeton	2	26024228.5
+new jersey rap	pop edm	2	40925494.0
+pop edm	rap	2	40925494.0
+pop edm	southern hip hop	2	40925494.0
+pop edm	trap	2	40925494.0
+baile pop	moombahton	2	41940812.0
+funk carioca	moombahton	2	41940812.0
+big room	indietronica	2	18340420.5
+belgian edm	dance pop	2	33655309.0
+belgian dance	pop	2	33655309.0
+belgian edm	electropop	2	33655309.0
+belgian edm	indie poptimism	2	33655309.0
+belgian edm	indietronica	2	33655309.0
+dancehall	pop rap	2	6959880.5
+reggaeton	spanish pop	2	39135112.0
+atl hip hop	latin	2	10696074.0
+atl hip hop	reggaeton	2	10696074.0
+pop rap	spanish pop	2	10696074.0
+latin	uk dancehall	2	10696074.0
+latin	uk hip hop	2	10696074.0
+reggaeton	uk dancehall	2	10696074.0
+reggaeton	uk hip hop	2	10696074.0
+hip hop	old school hip hop	2	3372475.0
+dmv rap	east coast hip hop	2	3372475.0
+afro dancehall	pop rap	2	193692587.5
+afropop	pop rap	2	193692587.5
+azonto	pop rap	2	193692587.5
+canadian pop	latin	2	858333467.0
+canadian pop	tropical	2	858333467.0
+electro house	uk pop	2	25461164.0
+basshall	pop	2	3223687.0
+dance pop	swedish electropop	2	233851396.5
+swedish electropop	tropical house	2	233851396.5
+conscious hip hop	r&b	2	130992908.5
+southern hip hop	trap soul	2	89013708.5
+modern rock	new orleans rap	2	84323037.0
+new orleans rap	rock	2	84323037.0
+conscious hip hop	modern rock	2	84323037.0
+dmv rap	modern rock	2	84323037.0
+dmv rap	rock	2	84323037.0
+modern rock	r&b	2	84323037.0
+modern rock	trap soul	2	84323037.0
+r&b	rock	2	84323037.0
+rock	trap soul	2	84323037.0
+modern rock	pittsburgh rap	2	84323037.0
+pittsburgh rap	rock	2	84323037.0
+modern rock	rock	2	84323037.0
+pittsburgh rap	pop	2	84323037.0
+modern alternative rock	southern hip hop	2	84323037.0
+southern hip hop	stomp pop	2	84323037.0
+latin arena pop	trap latino	2	67574150.0
+electro house	neo mellow	2	80620686.5
+electro house	pop rock	2	80620686.5
+dance pop	deep euro house	2	131275922.0
+dance pop	deep house	2	131275922.0
+dance pop	german dance	2	131275922.0
+deep euro house	edm	2	131275922.0
+deep house	edm	2	131275922.0
+edm	german dance	2	131275922.0
+deep euro house	tropical house	2	131275922.0
+deep house	tropical house	2	131275922.0
+german dance	tropical house	2	131275922.0
+alternative r&b	r&b	2	93704380.0
+r&b	trap soul	2	93704380.0
+edm	piano rock	2	66917139.0
+piano rock	pop	2	66917139.0
+piano rock	tropical house	2	66917139.0
+pop rock	west coast rap	1	238025443.0
+electropop	la pop	1	31857402.0
+electropop	vapor soul	1	31857402.0
+la pop	pop	1	31857402.0
+la pop	tropical house	1	31857402.0
+tropical house	vapor soul	1	31857402.0
+philly rap	southern hip hop	1	344099605.0
+canadian hip hop	miami hip hop	1	7875553.0
+miami hip hop	toronto rap	1	7875553.0
+celtic	new wave pop	1	24576437.0
+celtic punk	new wave pop	1	24576437.0
+celtic rock	new wave pop	1	24576437.0
+folk punk	new wave pop	1	24576437.0
+irish folk	new wave pop	1	24576437.0
+new wave pop	punk	1	24576437.0
+indie pop rap	r&b	1	109419683.0
+indie pop rap	urban contemporary	1	109419683.0
+deep german hip hop	deep german hip hop	1	3282104.0
+latin	r&b	1	121379966.0
+r&b	reggaeton	1	121379966.0
+dance pop	francoton	1	121379966.0
+francoton	post-teen pop	1	121379966.0
+francoton	r&b	1	121379966.0
+pop nacional	pop nacional	1	198292351.0
+detroit hip hop	funk das antigas	1	19841194.0
+detroit hip hop	pagode baiano	1	19841194.0
+afrofuturismo brasileiro	funk das antigas	1	19841194.0
+bass trap	funk das antigas	1	19841194.0
+electronic trap	funk das antigas	1	19841194.0
+afrofuturismo brasileiro	pagode baiano	1	19841194.0
+bass trap	pagode baiano	1	19841194.0
+electronic trap	pagode baiano	1	19841194.0
+afrofuturismo brasileiro	detroit hip hop	1	19841194.0
+bass trap	detroit hip hop	1	19841194.0
+detroit hip hop	electronic trap	1	19841194.0
+detroit hip hop	pop nacional	1	19841194.0
+house	toronto rap	1	4412014.0
+progressive house	toronto rap	1	4412014.0
+toronto rap	uk dance	1	4412014.0
+toronto rap	underground hip hop	1	4412014.0
+brostep	dance pop	1	204691843.0
+brostep	post-teen pop	1	204691843.0
+champeta	latin viral pop	1	15404365.0
+champeta	mexican pop	1	15404365.0
+colombian pop	latin viral pop	1	15404365.0
+colombian pop	mexican pop	1	15404365.0
+electro latino	latin pop	1	15404365.0
+electro latino	latin viral pop	1	15404365.0
+electro latino	mexican pop	1	15404365.0
+latin pop	latin viral pop	1	15404365.0
+edm	moombahton	1	90238003.0
+electronic trap	moombahton	1	90238003.0
+danish pop	electronic trap	1	90238003.0
+electronic trap	electropop	1	90238003.0
+electronic trap	indie pop	1	90238003.0
+electronic trap	indie poptimism	1	90238003.0
+dance pop	disco house	1	5697984.0
+disco house	edm	1	5697984.0
+disco house	pop	1	5697984.0
+disco house	tropical house	1	5697984.0
+dance pop	social media pop	1	299723337.0
+electro house	social media pop	1	299723337.0
+electropop	social media pop	1	299723337.0
+pop	social media pop	1	299723337.0
+pop edm	social media pop	1	299723337.0
+pop rap	social media pop	1	299723337.0
+post-teen pop	social media pop	1	299723337.0
+social media pop	tropical house	1	299723337.0
+canadian pop	moombahton	1	214754829.0
+canadian pop	danish pop	1	214754829.0
+canadian pop	indie pop	1	214754829.0
+canadian pop	indie poptimism	1	214754829.0
+danish pop	post-teen pop	1	214754829.0
+alternative r&b	brostep	1	353188336.0
+alternative r&b	progressive electro house	1	353188336.0
+conscious hip hop	irish rock	1	45685938.0
+conscious hip hop	permanent wave	1	45685938.0
+hip hop	irish rock	1	45685938.0
+irish rock	rap	1	45685938.0
+irish rock	west coast rap	1	45685938.0
+permanent wave	west coast rap	1	45685938.0
+rock	west coast rap	1	45685938.0
+electropop	new orleans rap	1	18994172.0
+dance pop	electropowerpop	1	24963585.0
+electropowerpop	pop	1	24963585.0
+electropowerpop	post-teen pop	1	24963585.0
+electropowerpop	viral pop	1	24963585.0
+indie poptimism	viral pop	1	24963585.0
+dancehall	latin hip hop	1	50472050.0
+latin	soca	1	50472050.0
+latin hip hop	soca	1	50472050.0
+reggaeton	soca	1	50472050.0
+soca	tropical	1	50472050.0
+bachata	trap latino	1	87048979.0
+australian dance	big room	1	29245843.0
+australian dance	edm	1	29245843.0
+australian dance	electro house	1	29245843.0
+australian dance	tropical house	1	29245843.0
+canadian electronic	dance pop	1	4213019.0
+canadian electronic	edm	1	4213019.0
+canadian electronic	electro house	1	4213019.0
+canadian electronic	house	1	4213019.0
+canadian electronic	pop	1	4213019.0
+canadian electronic	progressive house	1	4213019.0
+canadian electronic	tropical house	1	4213019.0
+canadian electronic	uk dance	1	4213019.0
+electro house	house	1	4213019.0
+electronic trap	house	1	4213019.0
+electronic trap	progressive house	1	4213019.0
+electronic trap	uk dance	1	4213019.0
+dance pop	turntablism	1	4213019.0
+edm	turntablism	1	4213019.0
+electro house	turntablism	1	4213019.0
+house	turntablism	1	4213019.0
+pop	turntablism	1	4213019.0
+progressive house	turntablism	1	4213019.0
+tropical house	turntablism	1	4213019.0
+turntablism	uk dance	1	4213019.0
+canadian electronic	rap	1	4213019.0
+rap	turntablism	1	4213019.0
+chicago rap	gangster rap	1	66578016.0
+gangster rap	new orleans rap	1	66578016.0
+atl hip hop	uk pop	1	21483759.0
+neo mellow	post-teen pop	1	20564528.0
+neo soul	post-teen pop	1	20564528.0
+big room	candy pop	1	39333129.0
+big room	metropopolis	1	39333129.0
+candy pop	deep big room	1	39333129.0
+deep big room	electropop	1	39333129.0
+deep big room	metropopolis	1	39333129.0
+deep big room	post-teen pop	1	39333129.0
+candy pop	dutch house	1	39333129.0
+dutch house	metropopolis	1	39333129.0
+candy pop	electro house	1	39333129.0
+electro house	metropopolis	1	39333129.0
+candy pop	progressive electro house	1	39333129.0
+metropopolis	progressive electro house	1	39333129.0
+candy pop	progressive house	1	39333129.0
+metropopolis	progressive house	1	39333129.0
+deep big room	hip hop	1	39333129.0
+deep big room	pop rap	1	39333129.0
+deep big room	rap	1	39333129.0
+deep big room	southern hip hop	1	39333129.0
+deep big room	trap	1	39333129.0
+dutch house	hip hop	1	39333129.0
+dutch house	rap	1	39333129.0
+dutch house	southern hip hop	1	39333129.0
+dutch house	trap	1	39333129.0
+hip hop	progressive electro house	1	39333129.0
+pop rap	progressive electro house	1	39333129.0
+progressive electro house	rap	1	39333129.0
+progressive electro house	southern hip hop	1	39333129.0
+progressive electro house	trap	1	39333129.0
+candy pop	hip hop	1	39333129.0
+candy pop	pop rap	1	39333129.0
+candy pop	rap	1	39333129.0
+candy pop	southern hip hop	1	39333129.0
+candy pop	trap	1	39333129.0
+hip hop	metropopolis	1	39333129.0
+metropopolis	southern hip hop	1	39333129.0
+metropopolis	trap	1	39333129.0
+dance pop	florida rap	1	17576753.0
+florida rap	pop	1	17576753.0
+florida rap	r&b	1	17576753.0
+memphis hip hop	r&b	1	17576753.0
+dirty south rap	florida rap	1	17576753.0
+florida rap	gangster rap	1	17576753.0
+florida rap	memphis hip hop	1	17576753.0
+florida rap	southern hip hop	1	17576753.0
+dirty south rap	miami hip hop	1	17576753.0
+gangster rap	miami hip hop	1	17576753.0
+memphis hip hop	miami hip hop	1	17576753.0
+memphis hip hop	southern hip hop	1	17576753.0
+dance pop	permanent wave	1	36181144.0
+edm	permanent wave	1	36181144.0
+electro house	permanent wave	1	36181144.0
+norwegian pop	permanent wave	1	36181144.0
+permanent wave	pop edm	1	36181144.0
+baile pop	big room	1	11685504.0
+big room	funk carioca	1	11685504.0
+big room	funk das antigas	1	11685504.0
+big room	pagode baiano	1	11685504.0
+baile pop	progressive electro house	1	11685504.0
+funk carioca	progressive electro house	1	11685504.0
+funk das antigas	progressive electro house	1	11685504.0
+pagode baiano	progressive electro house	1	11685504.0
+baile pop	progressive house	1	11685504.0
+funk carioca	progressive house	1	11685504.0
+funk das antigas	progressive house	1	11685504.0
+pagode baiano	progressive house	1	11685504.0
+deep pop edm	scandipop	1	3125372.0
+scandipop	swedish pop	1	3125372.0
+australian hip hop	baile pop	1	3934056.0
+baile pop	hip pop	1	3934056.0
+baile pop	post-teen pop	1	3934056.0
+australian hip hop	funk carioca	1	3934056.0
+funk carioca	hip pop	1	3934056.0
+funk carioca	post-teen pop	1	3934056.0
+australian hip hop	funk das antigas	1	3934056.0
+funk das antigas	hip pop	1	3934056.0
+funk das antigas	post-teen pop	1	3934056.0
+australian hip hop	pagode baiano	1	3934056.0
+hip pop	pagode baiano	1	3934056.0
+pagode baiano	post-teen pop	1	3934056.0
+complextro	edm	1	72564752.0
+edm	german techno	1	72564752.0
+complextro	tropical house	1	72564752.0
+german techno	tropical house	1	72564752.0
+cubaton	post-teen pop	1	23039700.0
+cubaton	urban contemporary	1	23039700.0
+latin	urban contemporary	1	23039700.0
+latin hip hop	urban contemporary	1	23039700.0
+latin pop	urban contemporary	1	23039700.0
+tropical	urban contemporary	1	23039700.0
+canadian hip hop	toronto rap	1	13345482.0
+toronto rap	toronto rap	1	13345482.0
+alternative hip hop	dancehall	1	9115642.0
+alternative hip hop	reggae fusion	1	9115642.0
+art pop	dancehall	1	9115642.0
+art pop	reggae fusion	1	9115642.0
+acoustic pop	big room	1	6043095.0
+acoustic pop	deep big room	1	6043095.0
+acoustic pop	edm	1	6043095.0
+acoustic pop	electro house	1	6043095.0
+acoustic pop	german techno	1	6043095.0
+acoustic pop	pop edm	1	6043095.0
+acoustic pop	progressive electro house	1	6043095.0
+acoustic pop	progressive house	1	6043095.0
+acoustic pop	sky room	1	6043095.0
+acoustic pop	tropical house	1	6043095.0
+big room	indiecoustica	1	6043095.0
+deep big room	indiecoustica	1	6043095.0
+edm	indiecoustica	1	6043095.0
+electro house	indiecoustica	1	6043095.0
+german techno	indiecoustica	1	6043095.0
+indiecoustica	pop edm	1	6043095.0
+indiecoustica	progressive electro house	1	6043095.0
+indiecoustica	progressive house	1	6043095.0
+indiecoustica	sky room	1	6043095.0
+indiecoustica	tropical house	1	6043095.0
+atl trap	edm	1	35526991.0
+atl trap	electro house	1	35526991.0
+atl trap	house	1	35526991.0
+atl trap	progressive house	1	35526991.0
+atl trap	tropical house	1	35526991.0
+atl trap	uk dance	1	35526991.0
+escape room	latin	1	145813718.0
+escape room	reggaeton	1	145813718.0
+latin	trap queen	1	145813718.0
+reggaeton	trap queen	1	145813718.0
+dance pop	escape room	1	145813718.0
+escape room	pop	1	145813718.0
+dance pop	rap latina	1	145813718.0
+pop	rap latina	1	145813718.0
+pop rap	rap latina	1	145813718.0
+dance pop	trap queen	1	145813718.0
+pop	trap queen	1	145813718.0
+dance pop	rock	1	32050457.0
+dance pop	stomp pop	1	32050457.0
+electropop	modern alternative rock	1	32050457.0
+electropop	modern rock	1	32050457.0
+electropop	rock	1	32050457.0
+electropop	stomp pop	1	32050457.0
+post-teen pop	rock	1	32050457.0
+post-teen pop	stomp pop	1	32050457.0
+canadian hip hop	chicago rap	1	19128891.0
+chicago rap	toronto rap	1	19128891.0
+deep pop r&b	detroit hip hop	1	3752647.0
+detroit hip hop	trap queen	1	3752647.0
+swedish pop	viral pop	1	42722765.0
+channel islands indie	east coast hip hop	1	25116893.0
+east coast hip hop	vapor soul	1	25116893.0
+channel islands indie	hip hop	1	25116893.0
+channel islands indie	pop rap	1	25116893.0
+pop rap	vapor soul	1	25116893.0
+channel islands indie	rap	1	25116893.0
+channel islands indie	southern hip hop	1	25116893.0
+southern hip hop	vapor soul	1	25116893.0
+channel islands indie	trap	1	25116893.0
+trap	vapor soul	1	25116893.0
+dance pop	grime	1	6241386.0
+girl group	grime	1	6241386.0
+girl group	uk hip hop	1	6241386.0
+grime	post-teen pop	1	6241386.0
+grime	talent show	1	6241386.0
+talent show	uk hip hop	1	6241386.0
+g funk	hip pop	1	8028606.0
+detroit hip hop	neo soul	1	8028606.0
+g funk	neo soul	1	8028606.0
+electropop	permanent wave	1	666118580.0
+dance pop	gauze pop	1	25739345.0
+edm	gauze pop	1	25739345.0
+electronic trap	gauze pop	1	25739345.0
+gauze pop	pop	1	25739345.0
+detroit hip hop	modern alternative rock	1	7127136.0
+detroit hip hop	modern rock	1	7127136.0
+detroit hip hop	pop rock	1	7127136.0
+detroit hip hop	rock	1	7127136.0
+detroit hip hop	stomp pop	1	7127136.0
+g funk	modern alternative rock	1	7127136.0
+g funk	modern rock	1	7127136.0
+g funk	pop rock	1	7127136.0
+g funk	rock	1	7127136.0
+g funk	stomp pop	1	7127136.0
+atl trap	melodic rap	1	3085640.0
+atl trap	pittsburgh rap	1	3085640.0
+big room	indie cafe pop	1	19217510.0
+dance pop	indie cafe pop	1	19217510.0
+deep tropical house	indie cafe pop	1	19217510.0
+electro house	indie cafe pop	1	19217510.0
+electropop	indie cafe pop	1	19217510.0
+house	indie cafe pop	1	19217510.0
+indie cafe pop	pop edm	1	19217510.0
+deep tropical house	swedish pop	1	19217510.0
+electropop	swedish pop	1	19217510.0
+house	swedish pop	1	19217510.0
+pop edm	swedish pop	1	19217510.0
+house	viral pop	1	19217510.0
+atl hip hop	moombahton	1	183657725.0
+hip hop	moombahton	1	183657725.0
+melodic rap	moombahton	1	183657725.0
+dfw rap	hip hop	1	520602889.0
+dfw rap	melodic rap	1	520602889.0
+canadian pop	deep euro house	1	2670842.0
+canadian pop	german dance	1	2670842.0
+alternative hip hop	escape room	1	7432920.0
+alternative hip hop	underground hip hop	1	7432920.0
+art pop	conscious hip hop	1	7432920.0
+art pop	escape room	1	7432920.0
+conscious hip hop	gqom	1	211077788.0
+gqom	hip hop	1	211077788.0
+gqom	rap	1	211077788.0
+gqom	west coast rap	1	211077788.0
+champeta	pop rap	1	32645871.0
+champeta	reggae fusion	1	32645871.0
+colombian pop	pop rap	1	32645871.0
+colombian pop	reggae fusion	1	32645871.0
+dance pop	electro latino	1	32645871.0
+electro latino	reggae fusion	1	32645871.0
+latin pop	reggae fusion	1	32645871.0
+deep underground hip hop	neo mellow	1	37986228.0
+indie pop rap	neo mellow	1	37986228.0
+neo mellow	pop rap	1	37986228.0
+neo mellow	rap	1	37986228.0
+neo mellow	underground hip hop	1	37986228.0
+deep underground hip hop	pop	1	37986228.0
+deep underground hip hop	viral pop	1	37986228.0
+underground hip hop	viral pop	1	37986228.0
+chicano rap	neo mellow	1	37986228.0
+chicano rap	pop	1	37986228.0
+chicano rap	viral pop	1	37986228.0
+chicano rap	deep underground hip hop	1	37986228.0
+chicano rap	indie pop rap	1	37986228.0
+chicano rap	rap	1	37986228.0
+chicano rap	underground hip hop	1	37986228.0
+deep big room	dutch house	1	14324209.0
+deep big room	progressive electro house	1	14324209.0
+big room	dutch edm	1	14324209.0
+dance pop	dutch edm	1	14324209.0
+dutch edm	dutch house	1	14324209.0
+dutch edm	edm	1	14324209.0
+dutch edm	electro house	1	14324209.0
+dutch edm	pop	1	14324209.0
+dutch edm	progressive electro house	1	14324209.0
+dutch edm	tropical house	1	14324209.0
+dutch house	dutch house	1	14324209.0
+big room	electronic trap	1	14324209.0
+dutch house	electronic trap	1	14324209.0
+electronic trap	progressive electro house	1	14324209.0
+progressive electro house	progressive electro house	1	14324209.0
+big room	progressive house	1	14324209.0
+dutch house	progressive house	1	14324209.0
+progressive electro house	progressive house	1	14324209.0
+dutch pop	uk pop	1	29589463.0
+big room	dutch pop	1	29589463.0
+dutch pop	progressive house	1	29589463.0
+hip hop	latin	1	3781901.0
+hip hop	reggaeton	1	3781901.0
+colombian pop	reggaeton flow	1	78987827.0
+latin	pagode baiano	1	61449453.0
+pagode baiano	reggaeton	1	61449453.0
+cubaton	cubaton	1	106381642.0
+latin hip hop	miami hip hop	1	106381642.0
+miami hip hop	reggaeton flow	1	106381642.0
+miami hip hop	tropical	1	106381642.0
+pop rap	reggaeton flow	1	106381642.0
+girl group	pop	1	114388292.0
+girl group	r&b	1	114388292.0
+girl group	trap soul	1	114388292.0
+r&b	talent show	1	114388292.0
+talent show	trap soul	1	114388292.0
+r&b	viral pop	1	114388292.0
+trap soul	viral pop	1	114388292.0
+melodic rap	west coast rap	1	21357450.0
+alternative metal	east coast hip hop	1	5602548.0
+east coast hip hop	nu metal	1	5602548.0
+east coast hip hop	post-grunge	1	5602548.0
+east coast hip hop	rap metal	1	5602548.0
+canadian contemporary r&b	west coast rap	1	26991759.0
+canadian pop	west coast rap	1	26991759.0
+electropop	francoton	1	4629114.0
+francoton	tropical house	1	4629114.0
+electropop	french pop	1	4629114.0
+french pop	pop	1	4629114.0
+french pop	tropical house	1	4629114.0
+atl hip hop	hip pop	1	77729248.0
+atl hip hop	queens hip hop	1	77729248.0
+danish pop	indie poptimism	1	111735536.0
+indie pop	indie poptimism	1	111735536.0
+indie poptimism	indie poptimism	1	111735536.0
+atl hip hop	underground hip hop	1	3186794.0
+hip pop	moombahton	1	180598405.0
+moombahton	queens hip hop	1	180598405.0
+moombahton	toronto rap	1	180598405.0
+moombahton	urban contemporary	1	180598405.0
+british soul	new jersey rap	1	48831201.0
+new jack swing	new jersey rap	1	48831201.0
+british soul	pop rap	1	48831201.0
+new jack swing	pop rap	1	48831201.0
+british soul	rap	1	48831201.0
+new jack swing	rap	1	48831201.0
+british soul	southern hip hop	1	48831201.0
+new jack swing	southern hip hop	1	48831201.0
+british soul	trap	1	48831201.0
+new jack swing	trap	1	48831201.0
+hip pop	viral pop	1	10263979.0
+queens hip hop	viral pop	1	10263979.0
+barbadian pop	dirty south rap	1	452700346.0
+barbadian pop	miami hip hop	1	452700346.0
+barbadian pop	urban contemporary	1	452700346.0
+florida rap	new orleans rap	1	26026855.0
+canadian electronic	deep big room	1	34951697.0
+deep big room	deep big room	1	34951697.0
+big room	pop edm	1	34951697.0
+canadian electronic	pop edm	1	34951697.0
+deep big room	pop edm	1	34951697.0
+big room	vapor twitch	1	34951697.0
+canadian electronic	vapor twitch	1	34951697.0
+dance pop	vapor twitch	1	34951697.0
+deep big room	vapor twitch	1	34951697.0
+edm	vapor twitch	1	34951697.0
+electro house	vapor twitch	1	34951697.0
+tropical house	vapor twitch	1	34951697.0
+adult standards	deep adult standards	1	9464685.0
+adult standards	vocal harmony group	1	9464685.0
+brill building pop	deep adult standards	1	9464685.0
+brill building pop	vocal harmony group	1	9464685.0
+deep adult standards	easy listening	1	9464685.0
+easy listening	vocal harmony group	1	9464685.0
+deep adult standards	lounge	1	9464685.0
+lounge	vocal harmony group	1	9464685.0
+big room	indie anthem-folk	1	3655614.0
+dance pop	indie anthem-folk	1	3655614.0
+edm	indie anthem-folk	1	3655614.0
+indie anthem-folk	pop	1	3655614.0
+indie anthem-folk	tropical house	1	3655614.0
+canadian hip hop	philly rap	1	37306670.0
+melodic rap	philly rap	1	37306670.0
+philly rap	toronto rap	1	37306670.0
+toronto rap	uk pop	1	96173591.0
+electropop	urban contemporary	1	96173591.0
+uk pop	urban contemporary	1	96173591.0
+chicago rap	detroit hip hop	1	3409899.0
+aussietronica	melbourne bounce	1	352947568.0
+melbourne bounce	tropical house	1	352947568.0
+detroit hip hop	gangster rap	1	64754565.0
+detroit hip hop	west coast rap	1	64754565.0
+g funk	g funk	1	64754565.0
+g funk	gangster rap	1	64754565.0
+g funk	west coast rap	1	64754565.0
+australian dance	metropopolis	1	5545560.0
+australian dance	swedish electropop	1	5545560.0
+australian dance	swedish pop	1	5545560.0
+australian dance	swedish synthpop	1	5545560.0
+australian electropop	dance pop	1	5545560.0
+australian electropop	electropop	1	5545560.0
+australian electropop	metropopolis	1	5545560.0
+australian electropop	pop	1	5545560.0
+australian electropop	post-teen pop	1	5545560.0
+australian electropop	swedish electropop	1	5545560.0
+australian electropop	swedish pop	1	5545560.0
+australian electropop	swedish synthpop	1	5545560.0
+australian indie	dance pop	1	5545560.0
+australian indie	electropop	1	5545560.0
+australian indie	metropopolis	1	5545560.0
+australian indie	pop	1	5545560.0
+australian indie	post-teen pop	1	5545560.0
+australian indie	swedish electropop	1	5545560.0
+australian indie	swedish pop	1	5545560.0
+australian indie	swedish synthpop	1	5545560.0
+downtempo	electropop	1	5545560.0
+downtempo	metropopolis	1	5545560.0
+downtempo	swedish electropop	1	5545560.0
+downtempo	swedish pop	1	5545560.0
+downtempo	swedish synthpop	1	5545560.0
+edm	swedish synthpop	1	5545560.0
+pop	swedish synthpop	1	5545560.0
+adult standards	adult standards	1	4780338.0
+adult standards	easy listening	1	4780338.0
+adult standards	swing	1	4780338.0
+canadian pop	easy listening	1	4780338.0
+canadian pop	swing	1	4780338.0
+adult standards	lounge	1	4780338.0
+easy listening	lounge	1	4780338.0
+lounge	swing	1	4780338.0
+k-pop	pop rap	1	30581497.0
+k-pop	rap	1	30581497.0
+k-pop	southern hip hop	1	30581497.0
+k-pop	trap	1	30581497.0
+k-pop	viral trap	1	30581497.0
+k-pop boy group	pop rap	1	30581497.0
+k-pop boy group	rap	1	30581497.0
+k-pop boy group	southern hip hop	1	30581497.0
+k-pop boy group	trap	1	30581497.0
+k-pop boy group	viral trap	1	30581497.0
+big room	k-pop	1	30581497.0
+dance pop	k-pop	1	30581497.0
+edm	k-pop	1	30581497.0
+electro house	k-pop	1	30581497.0
+k-pop	tropical house	1	30581497.0
+big room	k-pop boy group	1	30581497.0
+dance pop	k-pop boy group	1	30581497.0
+edm	k-pop boy group	1	30581497.0
+electro house	k-pop boy group	1	30581497.0
+k-pop boy group	tropical house	1	30581497.0
+big room	viral trap	1	30581497.0
+dance pop	viral trap	1	30581497.0
+edm	viral trap	1	30581497.0
+electro house	viral trap	1	30581497.0
+tropical house	viral trap	1	30581497.0
+canadian hip hop	downtempo	1	24053086.0
+downtempo	melodic rap	1	24053086.0
+downtempo	pop rap	1	24053086.0
+downtempo	rap	1	24053086.0
+downtempo	toronto rap	1	24053086.0
+downtempo	trap	1	24053086.0
+canadian hip hop	edm	1	24053086.0
+canadian hip hop	electronic trap	1	24053086.0
+electronic trap	melodic rap	1	24053086.0
+electronic trap	toronto rap	1	24053086.0
+electronic trap	trap	1	24053086.0
+canadian hip hop	electropop	1	24053086.0
+canadian hip hop	shiver pop	1	24053086.0
+melodic rap	shiver pop	1	24053086.0
+pop rap	shiver pop	1	24053086.0
+rap	shiver pop	1	24053086.0
+shiver pop	toronto rap	1	24053086.0
+shiver pop	trap	1	24053086.0
+latin	modern reggae	1	27259259.0
+latin	reggae	1	27259259.0
+latin	roots reggae	1	27259259.0
+modern reggae	reggaeton	1	27259259.0
+reggae	reggaeton	1	27259259.0
+reggaeton	roots reggae	1	27259259.0
+modern reggae	trap latino	1	27259259.0
+reggae	trap latino	1	27259259.0
+reggae fusion	trap latino	1	27259259.0
+roots reggae	trap latino	1	27259259.0
+modern reggae	tropical	1	27259259.0
+reggae	tropical	1	27259259.0
+roots reggae	tropical	1	27259259.0
+cubaton	latin arena pop	1	67490512.0
+latin arena pop	latin hip hop	1	67490512.0
+alternative r&b	canadian hip hop	1	29491962.0
+canadian hip hop	indie r&b	1	29491962.0
+canadian hip hop	indie soul	1	29491962.0
+canadian pop	indie r&b	1	29491962.0
+canadian pop	indie soul	1	29491962.0
+hip hop	indie soul	1	29491962.0
+indie r&b	pop rap	1	29491962.0
+indie soul	pop rap	1	29491962.0
+indie soul	rap	1	29491962.0
+alternative r&b	toronto rap	1	29491962.0
+indie r&b	toronto rap	1	29491962.0
+indie soul	toronto rap	1	29491962.0
+emo rap	florida rap	1	101074469.0
+florida rap	miami hip hop	1	101074469.0
+emo rap	hip hop	1	101074469.0
+emo rap	miami hip hop	1	101074469.0
+miami hip hop	miami hip hop	1	101074469.0
+emo rap	pop rap	1	101074469.0
+emo rap	southern hip hop	1	101074469.0
+dance pop	puerto rican pop	1	104647507.0
+afro house	canadian hip hop	1	45416280.0
+afro house	canadian pop	1	45416280.0
+afro house	hip hop	1	45416280.0
+afro house	pop rap	1	45416280.0
+afro house	rap	1	45416280.0
+afro house	toronto rap	1	45416280.0
+canadian hip hop	deep house	1	45416280.0
+deep house	hip hop	1	45416280.0
+deep house	rap	1	45416280.0
+deep house	toronto rap	1	45416280.0
+canadian hip hop	kwaito house	1	45416280.0
+canadian pop	kwaito house	1	45416280.0
+hip hop	kwaito house	1	45416280.0
+kwaito house	pop rap	1	45416280.0
+kwaito house	rap	1	45416280.0
+kwaito house	toronto rap	1	45416280.0
+afro house	pop	1	45416280.0
+afro house	uk contemporary r&b	1	45416280.0
+deep house	uk contemporary r&b	1	45416280.0
+kwaito house	pop	1	45416280.0
+kwaito house	uk contemporary r&b	1	45416280.0
+canadian hip hop	uk contemporary r&b	1	45416280.0
+canadian pop	uk contemporary r&b	1	45416280.0
+hip hop	uk contemporary r&b	1	45416280.0
+pop rap	uk contemporary r&b	1	45416280.0
+rap	uk contemporary r&b	1	45416280.0
+toronto rap	uk contemporary r&b	1	45416280.0
+dance pop	teen pop	1	32558358.0
+edm	teen pop	1	32558358.0
+electro house	teen pop	1	32558358.0
+german dance	teen pop	1	32558358.0
+pop	teen pop	1	32558358.0
+teen pop	tropical house	1	32558358.0
+teen pop	uk dance	1	32558358.0
+german dance	uk dance	1	32558358.0
+chicago rap	east coast hip hop	1	42349819.0
+drill	east coast hip hop	1	42349819.0
+east coast hip hop	vapor trap	1	42349819.0
+drill	hip hop	1	42349819.0
+hip hop	vapor trap	1	42349819.0
+drill	pop rap	1	42349819.0
+pop rap	vapor trap	1	42349819.0
+drill	rap	1	42349819.0
+rap	vapor trap	1	42349819.0
+drill	southern hip hop	1	42349819.0
+southern hip hop	vapor trap	1	42349819.0
+drill	trap	1	42349819.0
+trap	vapor trap	1	42349819.0
+electro house	indie electropop	1	151575029.0
+electro house	nyc pop	1	151575029.0
+detroit hip hop	nyc rap	1	6216207.0
+g funk	nyc rap	1	6216207.0
+hip hop	nyc rap	1	6216207.0
+nyc rap	rap	1	6216207.0
+atl hip hop	pop rock	1	219149751.0
+norwegian pop	post-teen pop	1	3896269.0
+australian dance	norwegian pop	1	3896269.0
+australian pop	norwegian pop	1	3896269.0
+atl hip hop	dmv rap	1	3651458.0
+conscious hip hop	escape room	1	3651458.0
+dmv rap	escape room	1	3651458.0
+escape room	hip hop	1	3651458.0
+escape room	rap	1	3651458.0
+hip pop	r&b	1	475588934.0
+hip pop	trap soul	1	475588934.0
+queens hip hop	r&b	1	475588934.0
+queens hip hop	trap soul	1	475588934.0
+canadian hip hop	new orleans rap	1	16292090.0
+new orleans rap	toronto rap	1	16292090.0
+canadian hip hop	hip pop	1	16292090.0
+canadian hip hop	queens hip hop	1	16292090.0
+canadian pop	hip pop	1	16292090.0
+canadian pop	queens hip hop	1	16292090.0
+hip pop	new orleans rap	1	16292090.0
+new orleans rap	queens hip hop	1	16292090.0
+australian pop	big room	1	253622549.0
+australian pop	edm	1	253622549.0
+australian pop	progressive house	1	253622549.0
+progressive house	viral pop	1	253622549.0
+australian pop	tropical house	1	253622549.0
+album rock	experimental rock	1	31672140.0
+art rock	experimental rock	1	31672140.0
+classic rock	experimental rock	1	31672140.0
+experimental rock	folk rock	1	31672140.0
+experimental rock	mellow gold	1	31672140.0
+experimental rock	psychedelic rock	1	31672140.0
+experimental rock	rock	1	31672140.0
+album rock	experimental	1	31672140.0
+album rock	experimental pop	1	31672140.0
+art rock	experimental	1	31672140.0
+art rock	experimental pop	1	31672140.0
+classic rock	experimental	1	31672140.0
+classic rock	experimental pop	1	31672140.0
+experimental	folk rock	1	31672140.0
+experimental pop	folk rock	1	31672140.0
+experimental	mellow gold	1	31672140.0
+experimental pop	mellow gold	1	31672140.0
+experimental	psychedelic rock	1	31672140.0
+experimental pop	psychedelic rock	1	31672140.0
+experimental	rock	1	31672140.0
+experimental pop	rock	1	31672140.0
+experimental	experimental rock	1	31672140.0
+experimental pop	experimental rock	1	31672140.0
+boy band	deep tropical house	1	183055339.0
+dance pop	deep tropical house	1	183055339.0
+boy band	edm	1	183055339.0
+boy band	electro house	1	183055339.0
+boy band	electropop	1	183055339.0
+boy band	pop edm	1	183055339.0
+boy band	tropical house	1	183055339.0
+contemporary country	country dawn	1	14896115.0
+country	country road	1	14896115.0
+country dawn	country road	1	14896115.0
+country road	country road	1	14896115.0
+indie electropop	nyc pop	1	43846788.0
+indie pop	nyc pop	1	43846788.0
+indie poptimism	nyc pop	1	43846788.0
+indietronica	nyc pop	1	43846788.0
+la pop	nyc pop	1	43846788.0
+nyc pop	pop edm	1	43846788.0
+alternative metal	gangster rap	1	4879064.0
+alternative metal	southern hip hop	1	4879064.0
+alternative metal	trap	1	4879064.0
+alternative metal	underground hip hop	1	4879064.0
+gangster rap	nu metal	1	4879064.0
+nu metal	southern hip hop	1	4879064.0
+nu metal	trap	1	4879064.0
+nu metal	underground hip hop	1	4879064.0
+gangster rap	post-grunge	1	4879064.0
+post-grunge	southern hip hop	1	4879064.0
+post-grunge	trap	1	4879064.0
+post-grunge	underground hip hop	1	4879064.0
+gangster rap	rap metal	1	4879064.0
+rap metal	southern hip hop	1	4879064.0
+rap metal	trap	1	4879064.0
+rap metal	underground hip hop	1	4879064.0
+alternative metal	grime	1	4879064.0
+alternative metal	uk hip hop	1	4879064.0
+grime	nu metal	1	4879064.0
+nu metal	uk hip hop	1	4879064.0
+grime	post-grunge	1	4879064.0
+post-grunge	uk hip hop	1	4879064.0
+grime	rap metal	1	4879064.0
+rap metal	uk hip hop	1	4879064.0
+gangster rap	grime	1	4879064.0
+gangster rap	uk hip hop	1	4879064.0
+grime	southern hip hop	1	4879064.0
+grime	trap	1	4879064.0
+grime	underground hip hop	1	4879064.0
+uk hip hop	underground hip hop	1	4879064.0
+alternative r&b	canadian contemporary r&b	1	449117181.0
+canadian contemporary r&b	dmv rap	1	449117181.0
+canadian pop	dmv rap	1	449117181.0
+conscious hip hop	electropop	1	449117181.0
+dmv rap	electropop	1	449117181.0
+dmv rap	post-teen pop	1	449117181.0
+alternative r&b	conscious hip hop	1	449117181.0
+alternative r&b	dmv rap	1	449117181.0
+liquid funk	pop	1	12833526.0
+liquid funk	post-teen pop	1	12833526.0
+dance pop	talent show	1	12833526.0
+edm	talent show	1	12833526.0
+liquid funk	talent show	1	12833526.0
+talent show	tropical house	1	12833526.0
+talent show	uk dance	1	12833526.0
+talent show	uk funky	1	12833526.0
+talent show	uk pop	1	12833526.0
+liquid funk	uk pop	1	12833526.0
+uk pop	uk pop	1	12833526.0
+hip hop	scandipop	1	11670768.0
+hip hop	swedish electropop	1	11670768.0
+hip hop	swedish pop	1	11670768.0
+pop rap	scandipop	1	11670768.0
+pop rap	swedish electropop	1	11670768.0
+pop rap	swedish pop	1	11670768.0
+r&b	scandipop	1	11670768.0
+r&b	swedish electropop	1	11670768.0
+r&b	swedish pop	1	11670768.0
+scandipop	southern hip hop	1	11670768.0
+southern hip hop	swedish electropop	1	11670768.0
+southern hip hop	swedish pop	1	11670768.0
+scandipop	trap	1	11670768.0
+swedish electropop	trap	1	11670768.0
+swedish pop	trap	1	11670768.0
+edm	trap soul	1	11670768.0
+scandipop	trap soul	1	11670768.0
+swedish electropop	trap soul	1	11670768.0
+swedish pop	trap soul	1	11670768.0
+trap soul	tropical house	1	11670768.0
+trap soul	uk pop	1	11670768.0
+norwegian pop	pop rap	1	152647281.0
+colombian pop	panamanian pop	1	90917554.0
+latin	panamanian pop	1	90917554.0
+panamanian pop	reggaeton	1	90917554.0
+colombian pop	pop reggaeton	1	90917554.0
+bedroom pop	electropop	1	3396784.0
+electropop	indie r&b	1	3396784.0
+bedroom pop	indie pop	1	3396784.0
+indie pop	indie r&b	1	3396784.0
+bedroom pop	indie poptimism	1	3396784.0
+indie poptimism	indie r&b	1	3396784.0
+bedroom pop	indietronica	1	3396784.0
+indie r&b	indietronica	1	3396784.0
+bedroom pop	norwegian pop	1	3396784.0
+indie r&b	norwegian pop	1	3396784.0
+bedroom pop	vapor pop	1	3396784.0
+indie r&b	vapor pop	1	3396784.0
+pop	vapor pop	1	3396784.0
+bedroom pop	vapor soul	1	3396784.0
+indie r&b	vapor soul	1	3396784.0
+hip hop	indie pop	1	3396784.0
+hip hop	indietronica	1	3396784.0
+hip hop	norwegian pop	1	3396784.0
+norwegian pop	rap	1	3396784.0
+hip hop	vapor pop	1	3396784.0
+rap	vapor pop	1	3396784.0
+bedroom pop	hip hop	1	3396784.0
+bedroom pop	rap	1	3396784.0
+electropop	uk funky	1	88230256.0
+hip pop	melodic rap	1	11057702.0
+melodic rap	queens hip hop	1	11057702.0
+hip pop	philly rap	1	11057702.0
+philly rap	post-teen pop	1	11057702.0
+philly rap	queens hip hop	1	11057702.0
+electropop	hip pop	1	11057702.0
+hip pop	indie pop	1	11057702.0
+hip pop	indie poptimism	1	11057702.0
+hip pop	indietronica	1	11057702.0
+hip pop	modern rock	1	11057702.0
+indietronica	pop rap	1	11057702.0
+indietronica	post-teen pop	1	11057702.0
+electropop	queens hip hop	1	11057702.0
+indie pop	queens hip hop	1	11057702.0
+indie poptimism	queens hip hop	1	11057702.0
+indietronica	queens hip hop	1	11057702.0
+modern rock	queens hip hop	1	11057702.0
+contemporary country	modern country rock	1	12337911.0
+contemporary country	texas country	1	12337911.0
+country	texas country	1	12337911.0
+country road	texas country	1	12337911.0
+modern country rock	texas country	1	12337911.0
+dancehall	uk funky	1	485584469.0
+australian dance	conscious hip hop	1	64800712.0
+australian pop	conscious hip hop	1	64800712.0
+australian dance	hip hop	1	64800712.0
+australian pop	hip hop	1	64800712.0
+australian dance	rap	1	64800712.0
+australian pop	rap	1	64800712.0
+australian dance	west coast rap	1	64800712.0
+australian pop	west coast rap	1	64800712.0
+electro latino	latin hip hop	1	41352383.0
+electro latino	tropical	1	41352383.0
+latin hip hop	pop reggaeton	1	41352383.0
+pop reggaeton	tropical	1	41352383.0
+canadian contemporary r&b	complextro	1	502231230.0
+canadian contemporary r&b	dance pop	1	502231230.0
+canadian contemporary r&b	edm	1	502231230.0
+canadian contemporary r&b	electro house	1	502231230.0
+canadian contemporary r&b	german techno	1	502231230.0
+canadian contemporary r&b	post-teen pop	1	502231230.0
+canadian contemporary r&b	tropical house	1	502231230.0
+canadian pop	complextro	1	502231230.0
+canadian pop	german techno	1	502231230.0
+complextro	electropop	1	502231230.0
+electropop	german techno	1	502231230.0
+detroit hip hop	uk pop	1	53731393.0
+g funk	uk pop	1	53731393.0
+champeta	pop	1	80773810.0
+colombian pop	pop	1	80773810.0
+dance pop	vallenato	1	80773810.0
+latin pop	vallenato	1	80773810.0
+pop	vallenato	1	80773810.0
+electropop	etherpop	1	462808517.0
+etherpop	pop	1	462808517.0
+etherpop	tropical house	1	462808517.0
+chicago indie	chicago rap	1	25689612.0
+chicago indie	conscious hip hop	1	25689612.0
+chicago indie	hip hop	1	25689612.0
+chicago indie	pop rap	1	25689612.0
+chicago indie	rap	1	25689612.0
+post-romantic era	soundtrack	1	13991271.0
+soundtrack	ukrainian classical	1	13991271.0
+dance pop	new jersey rap	1	40925494.0
+edm	new jersey rap	1	40925494.0
+electro house	new jersey rap	1	40925494.0
+electropop	new jersey rap	1	40925494.0
+new jersey rap	pop	1	40925494.0
+new jersey rap	pop rap	1	40925494.0
+new jersey rap	post-teen pop	1	40925494.0
+new jersey rap	tropical house	1	40925494.0
+colombian pop	hip hop	1	3995852.0
+colombian pop	rap	1	3995852.0
+boy band	latin	1	183567113.0
+boy band	latin hip hop	1	183567113.0
+boy band	reggaeton	1	183567113.0
+boy band	reggaeton flow	1	183567113.0
+boy band	tropical	1	183567113.0
+barbadian pop	edm	1	113036723.0
+barbadian pop	electro house	1	113036723.0
+barbadian pop	house	1	113036723.0
+barbadian pop	progressive house	1	113036723.0
+barbadian pop	tropical house	1	113036723.0
+barbadian pop	uk dance	1	113036723.0
+post-teen pop	underground hip hop	1	3709561.0
+r&b	underground hip hop	1	3709561.0
+east coast hip hop	pop rock	1	3675218.0
+funk das antigas	moombahton	1	41940812.0
+moombahton	pagode baiano	1	41940812.0
+dance pop	pop nacional	1	41940812.0
+edm	pop nacional	1	41940812.0
+moombahton	pop nacional	1	41940812.0
+pop	pop nacional	1	41940812.0
+pop nacional	pop rap	1	41940812.0
+pop nacional	tropical house	1	41940812.0
+belgian dance	dance pop	1	33655309.0
+belgian dance	edm	1	33655309.0
+belgian dance	tropical house	1	33655309.0
+belgian dance	belgian edm	1	33655309.0
+belgian edm	belgian edm	1	33655309.0
+belgian edm	big room	1	33655309.0
+belgian edm	electro house	1	33655309.0
+belgian edm	progressive electro house	1	33655309.0
+belgian dance	electropop	1	33655309.0
+belgian dance	indie poptimism	1	33655309.0
+belgian dance	indietronica	1	33655309.0
+big room	indie poptimism	1	33655309.0
+electro house	indietronica	1	33655309.0
+indie poptimism	progressive electro house	1	33655309.0
+indietronica	progressive electro house	1	33655309.0
+canadian contemporary r&b	canadian hip hop	1	6568514.0
+canadian hip hop	canadian pop	1	6568514.0
+canadian contemporary r&b	toronto rap	1	6568514.0
+hip pop	house	1	3597699.0
+house	queens hip hop	1	3597699.0
+hip pop	progressive house	1	3597699.0
+progressive house	queens hip hop	1	3597699.0
+hip pop	uk dance	1	3597699.0
+queens hip hop	uk dance	1	3597699.0
+brostep	deep pop r&b	1	80090321.0
+complextro	deep pop r&b	1	80090321.0
+deep pop r&b	electro	1	80090321.0
+deep pop r&b	electro house	1	80090321.0
+electropop	trap soul	1	25236414.0
+canadian contemporary r&b	philly rap	1	4443320.0
+canadian pop	philly rap	1	4443320.0
+atl hip hop	electro latino	1	10696074.0
+atl hip hop	latin pop	1	10696074.0
+atl hip hop	spanish pop	1	10696074.0
+atl hip hop	tropical	1	10696074.0
+electro latino	rap	1	10696074.0
+latin pop	rap	1	10696074.0
+rap	spanish pop	1	10696074.0
+rap	tropical	1	10696074.0
+electro latino	southern hip hop	1	10696074.0
+latin pop	southern hip hop	1	10696074.0
+southern hip hop	spanish pop	1	10696074.0
+southern hip hop	tropical	1	10696074.0
+electro latino	trap	1	10696074.0
+latin pop	trap	1	10696074.0
+spanish pop	trap	1	10696074.0
+trap	tropical	1	10696074.0
+atl hip hop	funk carioca	1	10696074.0
+funk carioca	rap	1	10696074.0
+funk carioca	southern hip hop	1	10696074.0
+funk carioca	trap	1	10696074.0
+atl hip hop	dancehall	1	10696074.0
+atl hip hop	uk dancehall	1	10696074.0
+atl hip hop	uk hip hop	1	10696074.0
+pop rap	uk dancehall	1	10696074.0
+dancehall	rap	1	10696074.0
+rap	uk dancehall	1	10696074.0
+dancehall	southern hip hop	1	10696074.0
+southern hip hop	uk dancehall	1	10696074.0
+dancehall	trap	1	10696074.0
+trap	uk dancehall	1	10696074.0
+electro latino	funk carioca	1	10696074.0
+funk carioca	latin pop	1	10696074.0
+funk carioca	spanish pop	1	10696074.0
+funk carioca	tropical	1	10696074.0
+dancehall	electro latino	1	10696074.0
+electro latino	pop	1	10696074.0
+electro latino	uk dancehall	1	10696074.0
+electro latino	uk hip hop	1	10696074.0
+dancehall	latin pop	1	10696074.0
+latin pop	uk dancehall	1	10696074.0
+latin pop	uk hip hop	1	10696074.0
+dancehall	spanish pop	1	10696074.0
+pop	spanish pop	1	10696074.0
+spanish pop	uk dancehall	1	10696074.0
+spanish pop	uk hip hop	1	10696074.0
+tropical	uk dancehall	1	10696074.0
+tropical	uk hip hop	1	10696074.0
+dancehall	funk carioca	1	10696074.0
+funk carioca	uk dancehall	1	10696074.0
+funk carioca	uk hip hop	1	10696074.0
+bmore	dance pop	1	11945548.0
+bmore	danish pop	1	11945548.0
+bmore	electropop	1	11945548.0
+bmore	indie pop	1	11945548.0
+bmore	indie poptimism	1	11945548.0
+bmore	pop	1	11945548.0
+bmore	tropical house	1	11945548.0
+dance pop	ninja	1	11945548.0
+danish pop	ninja	1	11945548.0
+electropop	ninja	1	11945548.0
+indie pop	ninja	1	11945548.0
+indie poptimism	ninja	1	11945548.0
+ninja	pop	1	11945548.0
+ninja	tropical house	1	11945548.0
+alternative metal	electropop	1	34393840.0
+electropop	nu metal	1	34393840.0
+electropop	post-grunge	1	34393840.0
+electropop	rap metal	1	34393840.0
+alternative metal	indie poptimism	1	34393840.0
+indie poptimism	nu metal	1	34393840.0
+indie poptimism	post-grunge	1	34393840.0
+indie poptimism	rap metal	1	34393840.0
+alternative metal	indietronica	1	34393840.0
+indietronica	nu metal	1	34393840.0
+indietronica	post-grunge	1	34393840.0
+indietronica	rap metal	1	34393840.0
+alternative metal	pop	1	34393840.0
+nu metal	pop	1	34393840.0
+pop	post-grunge	1	34393840.0
+pop	rap metal	1	34393840.0
+alternative hip hop	east coast hip hop	1	3372475.0
+alternative hip hop	old school hip hop	1	3372475.0
+east coast hip hop	east coast hip hop	1	3372475.0
+east coast hip hop	old school hip hop	1	3372475.0
+old school hip hop	southern hip hop	1	3372475.0
+conscious hip hop	old school hip hop	1	3372475.0
+dmv rap	old school hip hop	1	3372475.0
+old school hip hop	pop rap	1	3372475.0
+old school hip hop	rap	1	3372475.0
+detroit hip hop	permanent wave	1	4765125.0
+permanent wave	pop rap	1	4765125.0
+permanent wave	southern hip hop	1	4765125.0
+permanent wave	trap	1	4765125.0
+album rock	art pop	1	3236589.0
+art pop	heartland rock	1	3236589.0
+art pop	mellow gold	1	3236589.0
+art pop	rock	1	3236589.0
+art pop	soft rock	1	3236589.0
+album rock	pop	1	3236589.0
+heartland rock	pop	1	3236589.0
+mellow gold	pop	1	3236589.0
+pop	soft rock	1	3236589.0
+canadian contemporary r&b	east coast hip hop	1	7049037.0
+canadian pop	east coast hip hop	1	7049037.0
+atl trap	east coast hip hop	1	7049037.0
+east coast hip hop	gangster rap	1	7049037.0
+east coast hip hop	melodic rap	1	7049037.0
+atl trap	canadian contemporary r&b	1	7049037.0
+canadian contemporary r&b	gangster rap	1	7049037.0
+bachata	colombian pop	1	10114306.0
+bachata	dance pop	1	10114306.0
+bachata	latin pop	1	10114306.0
+bachata	pop	1	10114306.0
+big room	r&b	1	7014586.0
+afro dancehall	dance pop	1	50643390.0
+afro dancehall	edm	1	50643390.0
+afro dancehall	electro house	1	50643390.0
+afro dancehall	moombahton	1	50643390.0
+afro dancehall	pop	1	50643390.0
+afro dancehall	tropical house	1	50643390.0
+afropop	dance pop	1	50643390.0
+afropop	edm	1	50643390.0
+afropop	electro house	1	50643390.0
+afropop	moombahton	1	50643390.0
+afropop	pop	1	50643390.0
+afropop	tropical house	1	50643390.0
+azonto	dance pop	1	50643390.0
+azonto	edm	1	50643390.0
+azonto	electro house	1	50643390.0
+azonto	moombahton	1	50643390.0
+azonto	pop	1	50643390.0
+azonto	tropical house	1	50643390.0
+dance pop	modern reggae	1	244702402.0
+modern reggae	pop	1	244702402.0
+modern reggae	post-teen pop	1	244702402.0
+edm	la pop	1	10458325.0
+la pop	progressive electro house	1	10458325.0
+la pop	swedish pop	1	10458325.0
+adult standards	canadian country	1	9779529.0
+adult standards	country	1	9779529.0
+adult standards	country dawn	1	9779529.0
+adult standards	dance pop	1	9779529.0
+canadian country	canadian pop	1	9779529.0
+canadian pop	canadian pop	1	9779529.0
+canadian pop	country	1	9779529.0
+canadian pop	country dawn	1	9779529.0
+canadian country	lounge	1	9779529.0
+canadian pop	lounge	1	9779529.0
+country	lounge	1	9779529.0
+country dawn	lounge	1	9779529.0
+dance pop	lounge	1	9779529.0
+canadian pop	latin hip hop	1	858333467.0
+canadian pop	reggaeton	1	858333467.0
+canadian pop	latin pop	1	858333467.0
+canadian pop	puerto rican pop	1	858333467.0
+conscious hip hop	crunk	1	3245431.0
+crunk	dmv rap	1	3245431.0
+crunk	hip hop	1	3245431.0
+crunk	pop rap	1	3245431.0
+crunk	rap	1	3245431.0
+dirty south rap	dmv rap	1	3245431.0
+dmv rap	gangster rap	1	3245431.0
+conscious hip hop	memphis hip hop	1	3245431.0
+dmv rap	memphis hip hop	1	3245431.0
+basshall	uk pop	1	3223687.0
+moombahton	uk pop	1	3223687.0
+basshall	dance pop	1	3223687.0
+basshall	edm	1	3223687.0
+basshall	electro house	1	3223687.0
+basshall	moombahton	1	3223687.0
+basshall	pop rap	1	3223687.0
+basshall	tropical house	1	3223687.0
+dancehall	electro house	1	3223687.0
+dancehall	moombahton	1	3223687.0
+dutch pop	electro house	1	19811481.0
+dutch pop	electropop	1	19811481.0
+dutch house	pop edm	1	19811481.0
+dutch pop	pop edm	1	19811481.0
+dutch pop	pop rap	1	19811481.0
+dutch pop	post-teen pop	1	19811481.0
+detroit hip hop	piano rock	1	6377224.0
+detroit hip hop	viral pop	1	6377224.0
+g funk	piano rock	1	6377224.0
+g funk	viral pop	1	6377224.0
+hip hop	piano rock	1	6377224.0
+piano rock	rap	1	6377224.0
+australian dance	uk pop	1	315824904.0
+australian pop	electropop	1	315824904.0
+australian pop	uk pop	1	315824904.0
+bboy	deep tropical house	1	71763688.0
+bboy	edm	1	71763688.0
+bboy	new french touch	1	71763688.0
+bboy	tropical house	1	71763688.0
+deep tropical house	funk	1	71763688.0
+edm	funk	1	71763688.0
+funk	new french touch	1	71763688.0
+funk	tropical house	1	71763688.0
+deep tropical house	instrumental funk	1	71763688.0
+edm	instrumental funk	1	71763688.0
+instrumental funk	new french touch	1	71763688.0
+instrumental funk	tropical house	1	71763688.0
+deep tropical house	modern funk	1	71763688.0
+edm	modern funk	1	71763688.0
+modern funk	new french touch	1	71763688.0
+modern funk	tropical house	1	71763688.0
+deep euro house	neo mellow	1	148653946.0
+deep house	neo mellow	1	148653946.0
+german dance	neo mellow	1	148653946.0
+deep euro house	pop rock	1	148653946.0
+deep house	pop rock	1	148653946.0
+german dance	pop rock	1	148653946.0
+dance pop	scandipop	1	434478288.0
+edm	scandipop	1	434478288.0
+post-teen pop	scandipop	1	434478288.0
+post-teen pop	swedish electropop	1	434478288.0
+scandipop	tropical house	1	434478288.0
+scandipop	uk dance	1	434478288.0
+swedish electropop	uk dance	1	434478288.0
+edm	uk funky	1	434478288.0
+scandipop	uk funky	1	434478288.0
+swedish electropop	uk funky	1	434478288.0
+swedish pop	uk funky	1	434478288.0
+modern alternative rock	modern rock	1	84323037.0
+modern rock	modern rock	1	84323037.0
+modern rock	pop rock	1	84323037.0
+modern rock	stomp pop	1	84323037.0
+modern alternative rock	rock	1	84323037.0
+pop rock	rock	1	84323037.0
+rock	rock	1	84323037.0
+rock	stomp pop	1	84323037.0
+dmv rap	new orleans rap	1	84323037.0
+new orleans rap	r&b	1	84323037.0
+new orleans rap	trap soul	1	84323037.0
+new orleans rap	pittsburgh rap	1	84323037.0
+modern alternative rock	new orleans rap	1	84323037.0
+new orleans rap	pop rock	1	84323037.0
+new orleans rap	stomp pop	1	84323037.0
+conscious hip hop	trap soul	1	84323037.0
+dmv rap	r&b	1	84323037.0
+dmv rap	trap soul	1	84323037.0
+conscious hip hop	pittsburgh rap	1	84323037.0
+dmv rap	pittsburgh rap	1	84323037.0
+conscious hip hop	modern alternative rock	1	84323037.0
+conscious hip hop	stomp pop	1	84323037.0
+dmv rap	modern alternative rock	1	84323037.0
+dmv rap	pop rock	1	84323037.0
+dmv rap	stomp pop	1	84323037.0
+pittsburgh rap	r&b	1	84323037.0
+pittsburgh rap	trap soul	1	84323037.0
+modern alternative rock	r&b	1	84323037.0
+pop rock	r&b	1	84323037.0
+r&b	stomp pop	1	84323037.0
+modern alternative rock	trap soul	1	84323037.0
+pop rock	trap soul	1	84323037.0
+stomp pop	trap soul	1	84323037.0
+modern alternative rock	pittsburgh rap	1	84323037.0
+pittsburgh rap	pop rock	1	84323037.0
+pittsburgh rap	stomp pop	1	84323037.0
+atl hip hop	barbadian pop	1	112429602.0
+dirty south rap	gangster rap	1	3221363.0
+latin arena pop	latin arena pop	1	67574150.0
+latin arena pop	puerto rican pop	1	67574150.0
+latin arena pop	latin viral pop	1	67574150.0
+latin viral pop	puerto rican pop	1	67574150.0
+latin arena pop	spanish pop	1	67574150.0
+puerto rican pop	spanish pop	1	67574150.0
+spanish pop	trap latino	1	67574150.0
+spanish pop	tropical	1	67574150.0
+la pop	pop edm	1	2900036.0
+barbadian pop	conscious hip hop	1	177662780.0
+barbadian pop	west coast rap	1	177662780.0
+post-teen pop	west coast rap	1	177662780.0
+r&b	west coast rap	1	177662780.0
+urban contemporary	west coast rap	1	177662780.0
+deep pop edm	electropop	1	33224505.0
+deep pop edm	indie poptimism	1	33224505.0
+deep pop edm	norwegian pop	1	33224505.0
+deep pop edm	pop	1	33224505.0
+deep pop edm	post-teen pop	1	33224505.0
+deep pop edm	swedish electropop	1	33224505.0
+deep pop edm	tropical house	1	33224505.0
+deep tropical house	electropop	1	33224505.0
+deep tropical house	indie poptimism	1	33224505.0
+deep tropical house	norwegian pop	1	33224505.0
+deep tropical house	swedish electropop	1	33224505.0
+deep tropical house	tropical house	1	33224505.0
+edm	norwegian pop	1	33224505.0
+electro house	norwegian pop	1	33224505.0
+electro house	swedish electropop	1	33224505.0
+indie poptimism	pop edm	1	33224505.0
+norwegian pop	pop edm	1	33224505.0
+pop edm	swedish electropop	1	33224505.0
+electropop	swedish tropical house	1	33224505.0
+indie poptimism	swedish tropical house	1	33224505.0
+norwegian pop	swedish tropical house	1	33224505.0
+pop	swedish tropical house	1	33224505.0
+post-teen pop	swedish tropical house	1	33224505.0
+swedish electropop	swedish tropical house	1	33224505.0
+swedish tropical house	tropical house	1	33224505.0
+norwegian pop	tropical house	1	33224505.0
+deep euro house	electro house	1	131275922.0
+deep house	electro house	1	131275922.0
+electro house	german dance	1	131275922.0
+deep euro house	electropop	1	131275922.0
+deep house	electropop	1	131275922.0
+electropop	german dance	1	131275922.0
+deep euro house	pop edm	1	131275922.0
+deep house	pop edm	1	131275922.0
+german dance	pop edm	1	131275922.0
+deep euro house	pop rap	1	131275922.0
+german dance	pop rap	1	131275922.0
+deep euro house	post-teen pop	1	131275922.0
+deep house	post-teen pop	1	131275922.0
+canadian pop	electronic trap	1	311714795.0
+alternative r&b	gangster rap	1	93704380.0
+atl hip hop	trap soul	1	93704380.0
+gangster rap	trap soul	1	93704380.0
+alternative r&b	urban contemporary	1	93704380.0
+alternative r&b	trap soul	1	93704380.0
+dominican pop	latin	1	117523120.0
+dominican pop	puerto rican pop	1	117523120.0
+dominican pop	reggaeton	1	117523120.0
+dominican pop	trap latino	1	117523120.0
+dance pop	emo rap	1	3508716.0
+emo rap	pop	1	3508716.0
+emo rap	post-teen pop	1	3508716.0
+g funk	southern hip hop	1	26439946.0
+g funk	trap	1	26439946.0
+canadian hip hop	uk funky	1	336741785.0
+canadian pop	uk funky	1	336741785.0
+hip hop	uk funky	1	336741785.0
+rap	uk funky	1	336741785.0
+toronto rap	uk funky	1	336741785.0
+afro dancehall	canadian hip hop	1	336741785.0
+afropop	canadian hip hop	1	336741785.0
+azonto	canadian hip hop	1	336741785.0
+canadian hip hop	nigerian hip hop	1	336741785.0
+canadian hip hop	nigerian pop	1	336741785.0
+afro dancehall	canadian pop	1	336741785.0
+afropop	canadian pop	1	336741785.0
+azonto	canadian pop	1	336741785.0
+canadian pop	nigerian hip hop	1	336741785.0
+canadian pop	nigerian pop	1	336741785.0
+afro dancehall	hip hop	1	336741785.0
+afropop	hip hop	1	336741785.0
+azonto	hip hop	1	336741785.0
+hip hop	nigerian hip hop	1	336741785.0
+hip hop	nigerian pop	1	336741785.0
+nigerian hip hop	pop rap	1	336741785.0
+nigerian pop	pop rap	1	336741785.0
+afro dancehall	rap	1	336741785.0
+afropop	rap	1	336741785.0
+azonto	rap	1	336741785.0
+nigerian hip hop	rap	1	336741785.0
+nigerian pop	rap	1	336741785.0
+afro dancehall	toronto rap	1	336741785.0
+afropop	toronto rap	1	336741785.0
+azonto	toronto rap	1	336741785.0
+nigerian hip hop	toronto rap	1	336741785.0
+nigerian pop	toronto rap	1	336741785.0
+afro dancehall	uk funky	1	336741785.0
+afropop	uk funky	1	336741785.0
+azonto	uk funky	1	336741785.0
+nigerian hip hop	uk funky	1	336741785.0
+nigerian pop	uk funky	1	336741785.0
+classical tenor	pop	1	4220954.0
+classical tenor	uk pop	1	4220954.0
+italian tenor	pop	1	4220954.0
+italian tenor	uk pop	1	4220954.0
+operatic pop	pop	1	4220954.0
+operatic pop	uk pop	1	4220954.0
+edm	indie electropop	1	2598170.0
+melodic rap	underground hip hop	1	44223847.0
+philly rap	underground hip hop	1	44223847.0
+hollywood	hollywood	1	17434155.0
+big room	house	1	3025532.0
+neo mellow	norwegian pop	1	113542732.0
+neo mellow	pop edm	1	113542732.0
+dance pop	piano rock	1	113542732.0
+electro house	piano rock	1	113542732.0
+norwegian pop	piano rock	1	113542732.0
+piano rock	pop edm	1	113542732.0
+norwegian pop	pop rock	1	113542732.0
+pop edm	pop rock	1	113542732.0
+latin hip hop	perreo	1	15156683.0
+atl trap	r&b	1	3336413.0
