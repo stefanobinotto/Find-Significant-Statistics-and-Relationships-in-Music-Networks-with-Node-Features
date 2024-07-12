@@ -15,4 +15,4 @@ The goal was to find the **what artists and genres are most relevant**, based on
 
 The analysis of these graphs characteristics is conducted using the **exact centrality scores** algorithms, and compared with the **Eppstein-Wang approximated scores**.
 
-[This](https://github.com/stefanobinotto/Graph-Analytics-and-Network-Features/blob/main/Bastianello-Binotto-Grotto.pdf) is a presentation of our initial intentions, while [here](https://github.com/stefanobinotto/Graph-Analytics-and-Network-Features/blob/main/Report.pdf) you can find the final comprehensive discussion of our goals, our approach and the findings.
+[This](https://github.com/stefanobinotto/Graph-Analytics-and-Network-Features/blob/main/Bastianello-Binotto-Grotto.pdf) is the idea of the project we initially proposed to the professor, while [here](https://github.com/stefanobinotto/Graph-Analytics-and-Network-Features/blob/main/Report.pdf) you can find the final comprehensive discussion of our goals, our approach and the findings.
